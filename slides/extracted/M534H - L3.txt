@@ -1,0 +1,520 @@
+     Math                                                      Lecture                ①
+                     534H
+                                      Spring      2026                     3
+                                  -
+                                                           -
+
+
+
+
+Let's                             thatindeed for
+                                                                           any function I
+                     cheak
+
+                                                                   f(x-c)s
+variableo
+of                                     h(x , t                 =
+
+
+
+
+↓
+                                      2
+                                                                         antie
+                                          +
+
+
+
+                                                                         1
+                                                                   0
+                                                  c2x          =
+                                                                       -
+
+
+                                                                               X- C
+
+
+
+
+     UX          =    f't                     .
+                                                  1                =
+                                                                       f
+             Chain rule                           *
+     2
+         +
+              =
+                     f'(t) ( c)           ·                        =
+                                                                       f'(z)
+
+     2       +
+                 cnx        =
+                                  f (c)               +
+                                                           Cf              =   0
+
+
+
+Note         this      is       true    for all
+                                                          differentiablefunctiooa
+                                   ↳                  dye/pollutant
+                                       concentration of             ②
+Remark         1       :   What   h(x , z)   =
+                                                 f(x-at) is that the
+#stance (dye/pollutant)                          is
+                                                      transported        to       the
+
+night
+         at        speed     CC-speed in which fluid is flowing)
+                                                                     the
+In      the    Xt-plane           it moves       precisely along
+
+
+                            an
+characteristic                                                   -
+
+                                                                 V   =   (    ,
+                                                                                  1)   .
+
+
+
+
+And if                 look at what                         "a   mone"
+              we
+                                         happens       as
+
+
+x
+
+
+
+
+ #I
+          t    =
+                   1              t =2           + =3
+
+                                                  -
+                                                                                         ③
+·
+
+
+
+
+    Raki    2
+                     If                 looks      at (X t 2)                            the
+                 :                me
+                                                              space
+                                                                  ,
+                                                                        ,
+
+
+
+
+the    solution in            defines       a
+                                                surface                     u
+                                                          limes                 I
+made
+           up   of   parallel horizontal                               --
+                                                                       T E
+
+Clifted by f)                 looking       line
+
+
+    corrugated anodized aluminum                            or
+                                                                      galvanized      is
+
+
+
+
+Remark 3                                                     initial value
+                     :
+                             If    we
+                                        specify       an
+
+
+                                                           then that will
+lauxiliary condition) for                            In
+
+
+determine the f and hence                                     a
+                                                                       particular
+    solution     ze
+                 .
+                              Solve                                                 subject
+    example                                     24y-74x                     o
+                                                                       =
+                         :
+
+
+                                                      2
+                             to   h(X 0),
+                                                 =   X
+                                                                                                   ⑪
+The solution                   z    =       x(x ,
+                                                    j)
+
+                                                                              auxtbuy              =   o
+
+
+
+
+                                                         =
+                       z4x              +
+                                            zuy
+                   -
+
+
+
+
+                   W
+                                                                              v   =
+                                                                                      (a b)
+  8
+                                                                                          ,
+
+
+         =
+              (7
+                   a
+                           ,
+                               )                                              5) b a) -
+
+
+                                                                                              ,
+
+
+                       -
+
+
+
+                                        u
+               Yy4
+                                                    0
+ Du
+                                              =
+               =                    .
+
+
+
+
+     j
+                                                                          *
+Then the characteristicLimes                             note         T        (2
+                                                                           =
+                                                                                      ,
+                                                                                          7)
+so   the      characteristicLines                       2x +
+                                                                  7y      =    constant
+                                                         ↳
+                                                                                                  )
+                                                    >
+
+                                                                               anst
+                                                    -
+
+
+
+
+                               L
+                                              V                  (x ])
+         11                                                                               .
+                                                             ·            =
+                                                                  ,                                    -
+
+
+
+
+Aside : this is the same as
+-                                             noting     that the         slope of
+                                    characteristic his are y
+is            =
+                   7
+                               so                                         =
+
+                                                                              -X
+                                                                                          +       cust
+                                                                                     ⑤
+
+to     the    general solution will be                   n(x   .
+                                                                   j)   =
+                                                                            f(2x 7y)
+                                                                                 +
+
+
+
+
+But                              fold that                              x 2
+       now        we       are                n (x
+                                                     ,   0)        =
+
+
+
+
+                                                           2& =x)
+That    is        h(x 0)     ,
+                                     =
+                                         f(2x)   =
+                                                         x
+
+
+
+
+ f (w)            :
+                      =                    determines
+
+ WE    R
+
+Hence the particular solution satisfying both
+             and the initial condition
+the
+    equation                                                                is
+
+
+
+
+       2 (x
+              ,       y)         =
+
+                                     ((xy)
+                                                                                    ⑤
+Check that this              is   indeed          a       solution .
+
+
+E       :           2(x %)
+                        ,     =
+                                    =-
+                                  127
+                                                      .
+
+
+
+
+:
+            -
+
+
+
+
+                7nx +   2uy       =       0   ?                   u( , y)   =
+                                                                                xzy)
+                (2x
+                              7y)                                7)
+                    2                                     2x +
+    ~
+                  +
+                =
+                                      =
+
+                                              =
+        x
+
+
+
+
+    uy =7) 7
+                                                      E (2x               7))
+                            2
+                                      ·
+                                              =
+                                                                      +         .
+
+
+
+
+                        (Ey) xzF
+Hence           -
+                    >                 +
+    Denivahm                                             00        .
+                            of        E + Cy         =
+
+
+
+
+The amount of                    pollutant/dye            in   an       interval
+
+                                 the                 at alixed time t
+    Co       .   Xo]       in               X-axis                                 is
+
+
+
+
+     gu(x              ,   t)   dx          let's call it M         .
+
+
+
+                                                                            ( MCE)
+                                                                            =
+
+
+
+
+         8
+
+
+At               later time                    th        (h        ) the same
+         a
+                                       say                     >
+
+
+
+
+ particles of pollutant/dye)                         have moved              to
+
+
+                          Hence
+the right    by   C h                   .
+
+                                                .
+
+
+
+
+                   Xo                                    X + ch
+M        =
+
+                  Su(x           ,   +)dx       =
+                                                     S         2(x t +  ,
+                                                                            h) dx
+                   S                                  Ch
+                                                                             ⑧
+So if              differentiate        the                     above both
+          we
+                                               equality
+sides    with          respect to        Xo        we
+                                                         get (by FTC)
+       x(Xo t) ,
+                           =       z(xo sh     +
+                                                         ,
+                                                             t + h)
+
+
+                            both sides with respect to h
+Next    diferentiate
+(and     then we'll set         h   =0
+                                         )     .    We       get
+
+  0        =
+                        My (Yotch   ,
+                                        t+h)   ·
+                                                   2 +
+                                                         q(X    + Sh , ++ h)-d
+Now     seth       =   o   to   get
+          0   2x(Xo t) C + 2(Xo t)
+                   =
+                                    ,
+                                          =
+                                                                      ,
+
+
+
+
+This is exactly           &
+                 equation
+                                                                                  ⑨
+  Another take at solving             anxtbly
+                                                                 =   0
+                                                                          using
+what's     called        "Coordinate     Method"
+
+Cusing     a
+               change of variables)          :   (x Y) > (3 , 2)
+                                                         ,
+                                                                 -
+
+
+
+
+                             by                                          vo(x y)
+ S
+                ax       +            (a , b)        (x j)
+     3     =                      =              +
+                                                                     =       ,
+                                                             ,
+
+
+
+
+     y     =   bx    -
+
+
+
+
+                         ay       =
+                                      (b a)s(x y) = (x ])
+                                         ,
+                                             -
+
+                                                             ,               ,
+
+
+
+
+2(x                 2(3 , 3)
+          j)
+               +
+      ,
+
+
+
+
+=      2
+
+
+= = bat
+                                                     =
+
+
+    53
+             P    =        aux      +
+                                            by                                          ⑩
+  Hence      0    =
+                       a(au
+                       -
+                            buy) b(buy any)
+                                 ↳
+                                        +                 +                   -
+
+
+
+
+                            - +-bany b24
+        0    =    -                                                   +
+
+
+
+
+↓ ence the   transport eg                   in                    coordinates
+                                        .
+
+
+
+
+                                                 (E 2),
+
+
+
+
+ is
+      simply           (a+ b2)4z                      =       0               ab + 0
+  (
+                  xz
+                            =       0        E                4( 7)
+                                                                  ,
+                                                                               =
+
+                                                                                   f(z)
+                                                     variable                 This is
+ where f     is   a
+                           fination of           1                        .
+
+
+
+
+the   same   as       we    got before because z                              =
+                                                                                  bx-ay   .
+
+
+
+
+So before        u(x   ,
+                           y)   =
+                                    f(bx ay)     -
+

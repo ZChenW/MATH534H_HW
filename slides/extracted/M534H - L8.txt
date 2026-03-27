@@ -1,0 +1,488 @@
+                                                                        Lecture B           ⑪
+        Math          534H        -
+
+
+
+
+                                      Spring          2026          -
+
+
+
+
+ Cont   -
+
+
+            from last             time
+
+
+                                              84xy + 2 hyy
+                                                                                        0
+             5y4xx
+                                                                                    =
+                                      -
+
+
+
+
+            L
+
+                                                                                    8
+    *       =
+                      (5])(2x)            -
+
+
+
+
+                                              (4) 2             =
+                                                                        10xy
+                                                                               -
+
+
+
+
+                                                                ?
+                                                                        L
+ When is          Aso             A10             A   =   o
+                              ,
+                                              ;
+A = 10 xy                                                       430EXy >
+                  8       > 01
+                                                  5xy
+                                                          -
+              -
+
+
+
+
+                                                                        5
+                                                                               ELLIPTC
+
+
+A                     8 <0                                Y(0
+                                                                          Es Xy < 43
+    =
+        loxy                       (f         5xy
+                  -                                   -
+
+
+
+
+                                                                             HYPERBOLIC
+
+
+
+A   =
+        boxy      -   8   =
+                              0 (5xy                    -
+                                                            y   =
+
+                                                                    0sXy            =
+                                                                                        4
+                                                            >
+                                                            -             PARABOLIC
+                    -                                              *
+                     (1)
+                      -
+                                                /PARASOLIC
+
+
+                                  ↓ 14
+                                                                   x
+
+
+
+
+            -                               X
+                                            -
+                                                     *            #YPERBOLI 2
+
+
+
+
+        xy4/5
+
+Where        this   classificatives from ? So let's consider
+the   cose      D   =   9229      -
+
+
+
+                                      a <0 (Elliptic Case)
+Goal     is   to make        a
+                                 change of variables         so   that
+
+we    can     view   the equation
+                         -
+                                       as   a   Laplace's equatio starting
+    from        't   in
+                          pg       .
+                                       3
+                                               of    17b      ·
+
+
+
+
+                                                                    [x 1 2)     >
+                                                                                -
+                                                                                    (x   ,   2)
+
+ Let= =+
+                                                                                    2Y
+
+
+
+So
+        aimunte
+    S
+              have
+        we
+                     ux                =
+                                               x4x        +
+                                                              why
+                                                                                    by -
+                      My       ,
+                                       =
+                                               Bax        +
+                                                                  Suy
+We      would like                             that
+
+
+
+
+↳
+                               now
+
+
+
+
+L   =
+
+
+
+                     (2)           2
+
+
+
+
+                                   jB S                  that           [2 )2
+WANT is      to Choose    a 2                       so
+                           ,               ,                              ,
+                                                                                                    ⑪
+
+  S                                                               +
+       4x1      =
+                    24x + y                     =x
+
+                    Bax + y
+       My
+                                                -
+                =
+            ,
+
+                    W
+                                                                                                        Y
+This       means        that       x   =   1    V =
+                                                          ·               p   =
+
+                                                                                  , 8
+                                                                                  0
+                                                                                         =)
+Ance        all     m    all   we      get that           our
+                                                                     equation is
+  O    =    Lu           =
+                               (2 + 2)u                       .
+                                                                    which is a haptace eq
+                                                                      in the          new   variables   &
+
+
+
+
+Simiraly if $                          o       the       we       would       get
+
+ o     =    Lu          =
+                               (2          =
+
+
+
+
+                                               x)u                  which is a have
+                                                                     in   the     new
+                                                                                                equator
+                                                                                        variables
+If Ao             we'd       set
+                                                                                              Parabolic
+                                       p = Lu        =
+                                                          an              +tent               -
+In                                         &32 then                                     ②
+           higher   dimensions
+
+
+
+             zijxX
+                                        a
+ Lu    =
+
+
+
+
+                                   ,
+        -
+       all the second order terms              .
+
+
+
+
+Suppose         A   =
+
+                        (aij) kind                  is   a
+                                                              symmetric       matix and
+                                                          real valued
+                                   jed
+Fact   from linear algebra                 A       can   be
+                                                              diagonalized ;      in
+
+
+
+
+fact       me   can
+                        find   an      orthogonal matrix B                    such that
+
+                               *
+  BAB                 =
+                               (   O    ...                       &, 42 ... Xa are called
+                                                               the FIGENVALUES     of   A   .
+
+
+
+
+-B     =
+           transpose of   B            B   =
+
+                                               (ij)
+                                                          =
+                                                              B   =
+
+                                                                      (bji)
+ Now                                                                               &
+            the       classification      is   as
+                                                    follows      :
+
+
+
+
+())     L        is   Elliptic
+                                   iff   A     or   (A)     is       positive
+  definite ; that all eigenvalves of A
+                                   is                                  or
+                                                                             of (A)
+  are
+      positive (30)            .
+
+
+
+
+(2)   L      is
+                      Hyperbolic iff           A    or   (A) has Alr            But
+
+
+
+ one
+             positive eigenvalues              .
+                                                                       wara
+
+(3)     Lis           Panasonic         iff    A    has    one        zero   eigenvalue
+ and the rest have all the                          same
+                                                           sign.
+When d       =   2        which is what we did       before this translates
+ to     :
+                      A    =
+                               (i(
+    A       =
+                9229 =      a                     (a)4(9)G
+                      -
+
+
+
+
+    &   > 0          (ELLiPTic) ED 1                       ,
+                                                                   12 have the same sign
+    *   so
+                     (hyperbolic)                     J    ,       72 have          different signs
+                                                                        (Munzero)
+                                                                              - -
+                                                                                      .
+
+
+
+
+    D   =   o
+                 (Parabolic)
+                           1                               =       0          32 + 0      .
+
+
+
+
+                                                       ,                ,
+
+
+
+The (1 + 1)               Linear Wave                 EQUATion
+                                                                                  (hyperbolic)
+    XER
+                 ,
+                     tER
+                             ;
+                                     it will be       enough to consider too because
+                                                               S
+
+
+
+
+            later that the wave
+we'll
+                                           equation time reversibleis                          .
+
+
+
+
+    2(x , t)
+                     - u(x
+                                 ,
+                                     -
+
+
+
+                                         t) )forward
+                                              -
+                                                       backwards im time)
+                                                                        or
+                     -
+
+
+t               Yet -CUxx                 =       0            C = wave           speed constant
+                                             0(                         wet       c 2xx       =>
+            (rtt - E 2xx)u
+                                                                              -
+
+
+                                         =                     =
+                                                                                      ⑧
+    L    =
+              (2     +
+                          cx)(k       -
+
+
+                                          cx)              =:    T
+
+A the    wave
+                 equation +      can      be unritten       as        Du      = o
+
+
+
+
+ and    as
+
+
+
+
+             (2y (2x)(k)
+                 +               -
+
+
+
+                                      cy)n             =     0u(x t)              ,
+
+
+
+
+                             -
+                               =>:     X(X , t)
+                                                                     transports
+                                                                                      .
+
+
+
+
+                                                       homog     -
+
+
+
+                                                  -
+
+①             P       +
+                          chx)V        =   0           first          -   -
+
+                                                                                  ↓
+② and then solving              zu     from V     .
+
+
+                                                      (9-sx)4                 =   Y
+
+                                                           -
+
+
+To solve     I   we       know that                        inhomog transport
+                                                                          .
+
+
+
+
+& V(xit)              =
+                           g(x- ct)
+                                          where
+                                                  g
+                                                      is
+                                                           any        differentiable
+                                                                                  &
+ functive of          one   variable               R     >   Th       since
+                                                        -
+
+
+
+
+                                           g   :
+                                                                  ;
+       characteristic        times                      (2)v
+ the
+                                       of (G        +             =   0   are
+
+
+
+ X-ct       =   cust   .
+
+
+
+
+Now    we
+                need to solve the inhomogeneous                       transport
+equation
+&       /E-CWx) h                      =    V          with Vas above
+
+
+                                                             Need to solve
+#
+            n
+                  -
+
+
+
+
+                       (4x
+                                =
+                                    g(x ct) -
+
+
+
+
+                                                             this to
+
+                                                              find        2   .
+
+
+
+
+How    do   we    do    it ? We've         seen         16-17) .!
+                                                   this in
+
+
+       Continue next time).
+

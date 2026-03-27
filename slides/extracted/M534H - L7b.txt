@@ -1,0 +1,286 @@
+        Math                                                                                                ①
+                   534 H           -
+
+
+
+
+                                       Spring   2026        -
+
+
+
+
+                                                                 Lecture
+                                                                      7    -       &
+
+
+
+
+Section        1 6
+               .
+
+
+
+                          Classification of linear second order equations
+                                                                                                           iR2
+    We will
+                     go   through              the details for (X.
+                                                                   ]) > RxM        -
+                                                                                                       =
+
+
+
+
+    but similar                    arguments extend to any dimension (i)                                         .
+
+
+
+
+    Consider              second
+                          a              under linear PDS with constant
+                                                                                                        creff
+0       9
+              4xx                                           4 924yy
+                           9
+                                   24x                                              4 + a24 qu
+                                               +
+                      +
+                                                   9                           +                        +
+    =
+                                                                  +                a
+            ,                  ,                                                       ,
+                                                       ,
+
+                                                                                   -
+Assume                             Ch so that                                      1 o t
+                                                                  Ex hyx
+                     he                                               =                    .   .
+                                                                                                   .
+
+
+
+
+                                                                               Clower order            terms)
+    So             have
+             we
+                                       $2 + 921) Exy
+                                   -
+                                                           S
+
+    Abuse notatio                          :   =   a
+                                                           , 2
+
+
+and label this number                                            again by <92              Eaz)
+                                                                       ②
+                                                                   role.
+Next     we
+              ignore        the   lat      as   will
+                                                       play   wo
+
+
+
+
+So all in all         we    have
+
+
+   0          9
+                      4xx        2ai24xy        9224yy
+         =                   +             +
+                  ,
+
+
+
+
+Assume       a 70.
+
+  O
+
+                                 2
+       =
+              uxx      +
+
+
+
+
+           (
+  =
+
+
+
+
+      +Egy
+                                                              ③
+    -
+    + by                 +                            y
+
+The classification depends   on
+                                  the
+                                        sign of     A
+
+
+Three cases      D > 0        Do               X    =     0
+                         ;                ;
+
+
+
+
+     Aso
+①
+
+
+
+    9224- 930                EQUATION
+                         -
+                                              is   SAID NO BE
+
+                         ELLIPTIC
+                                              QUATION iS
+②    Aso           9229-9 < O                 HYPERBOLIC
+                                                                                                          I
+③ If D                      =
+                                 0D                      22-92                     =        0
+
+
+                            EQUATION             IS      SAIDTOBE              PARABOLIC
+
+ NEXT       TIME             WILL        SHOW                YOU       WHY          USING            A
+
+
+ CHANGE         OF          VARIABLES                .
+
+
+
+
+ Examples               :
+                                     24xx                +
+                                                             54yy 2uxy
+                                                                       -
+
+                                                                                            +
+                                                                                                4x   =
+                                                                                                           0
+
+
+
+    *   =
+                2229,            -
+                                     a
+                                         ,
+                                             3               a     =
+
+                                                                       2 a                   =   -I
+                                                                           5
+                                                             222   =
+
+
+
+to :            5   .
+                        2    -
+
+
+
+                                    (1)          =       10-1          =       130
+
+                                                                 So Ea         .
+                                                                                   is       Elliptic        .
+
+
+
+
+2)      uxx
+                                                                                                     HYPER-
+
+                            Guxy             34
+
+                                                                                                 )
+                                     +                        0                             0
+                                                         =
+                                                                           92
+                    -
+
+
+                                                                                        =
+                                                                                                         BOLIC
+
+
+                ( 3)
+                                                                                                          =
+
+
+A   =   0   =                   =
+                                    0940a                          =   1a , z =
+                                                                                                     ⑤
+  3) 4kyy                +
+                             44xy        +
+                                             4xx     +
+                                                             Hy
+                                                                   -
+                                                                       1       =   0
+
+
+
+
+           44yy              44xy            4xx                 ky            4
+                         +               +                   +             =
+
+
+
+
+         -                                                                               term
+                                                                               forcing
+                                                                                                     .
+      Linear second order part                   .
+
+
+
+
+                                                                           (inhomog )            .
+
+
+
+
+ a     =    1
+                 92z         =
+                                 49                  =       2
+
+
+
+  *     =        4   .
+                         1-22                =       o       Parabolic
+
+Think       ABOUT            Variable                Coefficient                   :
+
+
+
+
+ 4)        5y4xx                 -
+
+
+
+
+                                         84xy + hyy
+                                                                                   =     0
+
+
+        L
+
+                                                                                   8
+  *     =
+                (5])(2x)             -
+
+
+
+
+                                         (4) 2               =
+                                                                  10xy
+                                                                               -
+
+
+
+
+                                                             ?
+                                                                 L
+When is         Aso          A10             A   =       o
+                         ,
+                                         ;                       CNEXT TIME ! )              .
+

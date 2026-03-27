@@ -1,0 +1,493 @@
+     Math          534H                                                 Lecture                         ⑪
+                                           Spring          2026                         1
+                                      -
+                                                                    -
+
+
+
+
+ In Strauss             me
+                                 your          exercises          ashs            colabo to
+                                                                             find the
+
+
+              [
+ # XP
+                   4xx           34xt              444          0
+                         -
+                                               -
+                                                            =
+
+
+
+
+                                                   2
+                    u(X 0)
+                         ,
+                                      =        X
+
+
+                                 0)                ex
+                    u(X      ,
+                                           =
+
+
+
+
+ Short            shetch                  what you need                 to    do
+                                 of                                                 :
+
+
+
+ ①       Complete
+& Change of
+              Coordinates
+                             squares                   > (e)
+                                                       -                                            =   o
+
+
+
+
+  -     2x
+         =          -
+
+
+
+
+                        zot                                             23                   on
+
+     2   =
+              = 07(4)
+                                           -
+                                               (,      4)(x 48)(ax 2)u
+                                                                  -
+
+
+                                                                                        +          =    0
+
+
+
+                                                           Solution     should be
+ X   =
+         43   +
+                  By
+                             o        V                     2(x , t)     =   F(x t) +
+                                                                                -
+                                                                                            G(4X + t)
+ t
+                   82
+              +
+         2z
+     =
+⑳ After change of cordinates                            and
+                                                              undoing it &
+                                                                  -
+
+
+
+
+          (4) (
+                  En-c                          (3 4)   ,
+                                                                  +
+                                                                        (x t)
+                                                                           ,
+
+
+
+
+                     +
+                         &(3-4)
+
+ you      get        2(x t)   ,       =       F(x   -
+                                                        t)    +       G(4x t)
+                                                                          +
+
+
+
+
+& Now need to find                    F, G     for      the given       initial conditions
+  Let' ewrile             h(x z)  ,       =   F(x t) + J(x +4)
+                                                    -
+
+
+
+
+  F       J   :   R +R
+                              diff. fas
+      ,
+
+
+
+
+The
+   X2
+
+
+
+   e
+              4y(x
+              =
+
+
+
+
+                     ,
+                         0)       =   =
+
+                                          F((x) +       +'(x)
+                                                                       ③
+
+
+  W
+                                                           Find
+
+
+
+
+⑤
+                                  F(x)        E(x)
+         E         2x
+              ·
+                          =               +
+
+
+                    e     =
+                              -
+                                  F((x)   +
+                                              45(x)    -
+
+
+
+
+⑤ You solve for F % and              ,
+                                      initial
+                                             ways
+                                                     use
+
+
+
+             deter mine the constants          this
+ position
+                                                                  a
+          to                            car
+                                         chack
+                                                           uEspes
+                                                           -
+⑦ In              the   end   you   get                           sa
+
+                                                 * 5)
+    u(x ,+ )
+
+          &
+                   =    x +
+                                  E+
+                                                       I                                            SPEED
+  Causality                  and
+                                    Energy                        Finite Propagation
+
+                                                                          c4xx
+
+                                                        S
+            D'Alambert's formula                            Ptt                             0
+                                                                  -
+                                                                                        =
+
+Recall
+                                                             u(x , 0)          =
+                                                                                    p()         =   C
+                                                                                                at least
+                                                             u(X 0)            =
+                                                                                    4(x)
+                                                                                                 Ch
+                                                                      ,
+
+
+
+
+                                                                               X+ st
+
+ u(x , +)         =
+
+
+                       +[P(x        +   ct)   +   q(x   -
+
+
+
+
+                                                            ct]) z+
+                                                                           S        ↑ (j) dy
+
+                                                                           X   -
+
+
+                                                                                   St
+
+Remark : Note                  that                     C and 4                         C'ther
+                                        if        -                            :
+
+
+
+D'Atambert              formula for 2xit)                     gives that the
+                                                                                        BETTER !
+solution          is    also       Ch(Rx[0 00))    ,
+                                                                  and          NO
+
+                                         X         t
+
+Wave
+         eq   .
+                       has     we
+                               -
+                                    regulariza
+                                        -
+                                        -
+                                                        him       effect
+                          Finite                                         ⑤
+ Carranty           ·
+                                propagatio
+(Wave)              O     Domain of dependence         -
+
+
+
+
+                          Domain        influence
+                    ·
+                                   of
+①   Effect of the initial position yield           a
+                                                       pair of waves
+                    either circh is at
+travelling     in
+                                            speed EXACTLY &
+ (and at      Y2 of the original    amplitude (
+②   Effect of the initial velocityyields               a   wave   that
+
+ propagates
+                    out at
+                              speed C         .
+                                                  So       part of the
+                           behind
+ Wave    may        lag             if 40
+                                          ↳   inital velocity     .
+
+
+
+
+But D          part                                            Faster thaa
+         +
+             =      of the                  wave    moves
+                                                               -      -
+                                     that                                            ②
+Causality ppte says                       point
+                                            a wave
+                                                      at       a
+                                                                        (xit)
+                                                                        -
+
+
+
+
+in Rx [0 0)        .
+                    only affected by the initial andotims
+                                is
+
+
+
+within   a
+              past domain (come) of dependence G :
+         t
+
+
+
+
+         Ime
+                                            ( t)
+                                             ,
+
+                                                   given
+
+                                                               *
+                                                                   domain
+                                                                                of
+
+
+
+         (X   -
+                  ct       0)
+                       ,
+
+
+
+
+Domain of influence
+                                x-stX                      ·
+
+                                                           (x , 0
+                                                                            =
+The Domain
+·
+           of                          Dependence             means     that the value            of
+    2     at        a
+                      point (x t) ; that
+                        giva                   ze(X t) depends
+                                                  ,
+                                                                              is     ,
+
+
+
+
+    on    the values
+                     of of  at the
+                                   points in the                                    x-axis
+
+
+
+    (X- ct , 0)               and          (x + ct    ,   0) and on the values of
+
+    ↑      over         the        whole interval                 [x-st   ,
+                                                                               x+   ct]
+The
+·
+           domain
+                               of influence of                 a
+                                                                   point XER             :
+
+
+     initial auditions                       at
+                                              Xo                  can
+                                                                        only affect          the solution
+     ·
+
+
+
+         2 (X , t)             -
+                                       assume     to          -
+
+
+
+                                                                   for (Xit)         ONLY          in
+                                              &
+
+
+
+
+                                                                         at ]
+     (x        :   =
+                        ((x t)/(X xo)
+                                   ,
+                                                          -
+                                                                    =
+
+
+
+
+    (this          come       is       within the limes             X + st = Xo    and X-ct       =
+                                                                                                      Xo
+
+         as        in the      picture      in
+                                                  previous page                (
+                                                                                                ⑧
+     As                                if the initial conditions b 4
+          a
+                consequence        ,                                                        ,
+
+
+
+
+vanish          for    11      >   R
+                                         ,
+                                             then                2(x   ,   t)   =   0
+                                                                                        for all
+ ( t) such that                        (1        >   R + Ct                      :
+
+ -
+
+
+
+ -
+                                                                                 -
+
+
+     vanishes
+                                                                            -
+
+2                                                                           -
+
+
+
+
+ here
+          -
+
+
+
+                                                                           u    vanishes    -
+
+
+
+
+          -
+ -                                                                              here     -
+
+
+          -                                                      --
+                                                         o
+
+
+
+
+                       -
+
+
+                           R                                 R
+Note that this region is the varion of all the cres of
+             with XoEER RJ this sector is KIR+ Ct
+influence                                    ,           ·
+
+
+
+
+Theorem         Finite propagatio      speed)        :
+                                                         If p and ↑ are zero
+on   an   interval in the      x-axis        [Xo-cto         ,   Xotcto] then 2(Xoto 0
+                                                                         ⑨
+    Remark         :
+                       Going    back to the Domain of Dependence
+                    that initial conditions (information or a
+    I     we
+                get
+    disturbance) outside the interval [X-ct x +et] has    ,
+
+
+
+                             the value of              at (x t)
+    no    influence    in                         22          ·
+
+
+
+
+    All         all the                           described above give
+·          in
+                          information        we
+
+
+          the
+    us
+                 following    theorem    :
+
+
+
+
+Theorem          Finite propagatio   speed)   :
+                                                  If p and ↑ are zero
+on    an   interval in the     x-axis   [Xo-cto    ,   Xotcto] then 2(Xoto 0
+
+
+Next time we'll discuss conservation of Energy
+·
+
+
+
+
+      for the      wave
+                             equation    .
+

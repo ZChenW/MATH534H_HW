@@ -1,0 +1,420 @@
+    Math      534H                                Lecture z                   ①
+                        ·
+
+
+
+
+                            Spring     2026-
+
+
+
+  · me   Examples of Nonlinear Equations
+
+⑧      Burgers' Equatio                        & quarilinear   -
+                                                                   Is t
+                                                                          order)
+                                                  XR
+              -        22Ux            =   0                 honviscons .
+
+                                                                   Version        .
+
+
+
+
+It              ahe
+                t           dimensional flux          of monviscus fluid .
+                                                        a
+      governs
+But it        also used to model
+         is
+                               traffic flow                 -
+
+
+
+
+The    viscous variant
+                       of this equation                .
+                                                                    s
+              ut   +        cuxx       =
+                                               24xx                           ~
+                                                                              :
+                                   &
+
+
+
+
+                        -
+                                               -
+                                                             added
+                       Shock
+                               format in       dissipation                .
+
+
+
+
+                                                                              L
+                        term
+                                                        forming
+                Steepening        term     .
+
+
+                                                    shock-
+                                                                           &
+⑨ Porous medium equation (quantine ; 24 order
+
+                 t               =
+                                              R    .
+                                                       div    (2% Yu)                  t> O
+                                                                                                   ;
+                                                                                                           27
+                                                                                                           -
+                                                                                                                I
+
+
+
+
+ [                                                                                                             3
+        to if            w       =                 div (Tu)                Du              n
+                                                                                               =
+                                                                                                   *Du
+                                                                       =
+                                                                                  eg   .
+
+
+
+
+                20   =   1                                                      linear heat equatio
+This equation in the an text
+                                                                       of filtrations ; suchas
+                         motion
+                                                  of water             it permeates in the ground.
+modeling
+                                                                  as
+
+
+
+                                                                                               ( 2 in)
+⑳                                                      Dn                x(mpz CSmilinearC
+                                                                                                   .
+
+
+
+
+        = u                                   +
+                                                          ,
+                                                                  =
+
+                                                                                               2nd order
+                                                              x   =    11         Cubic himlinear
+        Ihl2         =       2       In
+                                                                               Schrodinger equatio
+                                 .
+
+
+
+
+(2(x t))    ,
+                         =
+                                     2(X t) .
+                                            xt)
+                                              ,
+                                                                        (liber optics      ;
+                                                                                               BEC
+                                                                                                           ;
+                                                                           water waves
+His         is   a   DISPERSIVE                        Equation                     ; plasma
+                                                                            physics , etc)
+                                                       -
+                         -
+
+
+&   =   I   DEFOCUSING                X   =   -1       Focusing                                        .
+                                              ③
+                                                   Cquasilinear
+                                                     and second ador)
+⑪ Minimal surface equation                                               boundary
+                                                        Xer
+
+             ,F(
+                                                                           32
+          div                             =   0
+                                                        & ER2
+                                                                     &
+
+
+
+
+                                                                            is   closed
+                                                                            curve
+                                                        Cno' time (
+The                  the solution in to this
+          graph of                                      equatio minimizes
+                            all
+the area
+                 among            surfaces        z =   X(X , X2)
+
+
+ whosebrundary         is   a
+                                  given (closed) curve           .
+
+
+
+
+ Ex                  bubbles              minimal surfaces .
+            soap
+                                    are
+      .
+
+
+
+
+-
+
+
+
+
+⑫ An example from geometric optics                                         is    the
+
+ Fikonal           Equalm             1D           =
+                                                         <(*)            XRd
+                              Iorder                            XeRa
+ Fully          unlinear;
+                                                                          -
+                                            ⑪
+    -
+    IRANSPORT             EQUATIONS         With   Constant
+                                                                    Coefficients
+ It x)e R2                                                           0
+ -                                          2      +
+                                                       cnx      =
+                 ,
+                     -
+
+
+
+
+                                                            Lanstant)
+                                                       =
+
+
+                               solve this   ?
+&     :
+            How      do   we
+
+
+
+
+          will be able to prove that                                by
+                                      "constratux
+ We
+
+solutions exist by direct
+
+Cexplicitely)
+                 do that let's understand
+                                                       4t   +           4   =0
+
+
+
+
+Before      we                                                      =   C
+
+
+                                      from ?           #                (,   )eR
+         equation
+where this                     arms
+
+
+
+
+Consider fluid (water) flowing
+                 a                                     aux buy
+                                                            +               =   0
+
+
+
+
+     constant rate & alug
+                                                       -
+
+at    a
+                                                       Al the
+                                                          Jame,
+
+a
+    horizontal pipe of fixed
+                                        ⑤
+ cross section           in the positive x-clirect on
+
+                                          A substance        (pollutant/dye)
+
+ *
+ 2
+
+                                          is
+                                               suspended              is   the
+
+
+                                     X
+                                           fluid ; and
+                                                at timet and
+h(X , t)   =   Concentration (Srw/m)
+                                                         . then
+                If diffusion              negligable
+
+                                                                            3
+                                     is
+positio
+           X
+           .
+
+
+what
+       happens      is    that the rate
+                                        of      change et of It
+concentration        is
+                          proportional    to        ux    Cor        more
+
+
+
+                                         This
+generally in higher dimensions to the
+                                   Yh) ·      says
+
+(f)2y           +
+                     (4x       =
+                                   0ky              =
+                                                         4(x t)  ,
+
+
+
+
+                                               4x   =
+                                                         4x(x t)
+                                                             ,
+                                                                       -
+              ↑
+
+
+                                                   ②
+ We'll       explain (t) later but          this
+                                   assuming
+how do            we       solve      it   ?
+
+
+   w4t             +
+                           24x             =       0    =
+
+
+                                                            W
+                                                                 cux +
+                                                                     -
+
+
+
+
+                                                                          W
+                                                                              4t
+                                                                         >
+                                                                         -
+
+
+
+
+  #      =
+              (c       ,   1)                      =
+                                                            Yuev                    directional
+                                                                                  derivate
+Mu           (2x           4t)
+                                                            D
+         =
+                   ,
+                                                   =
+                                                                                  of 2(x t)
+                                                                                          ,
+
+
+
+
+                                                                              in the direction
+What we           get is that                                                     of
+
+    Don                =    0=                 I       is   constant in the
+                                       ---                               times parallel to
+
+
+ directio
+                                                            -->
+                                                             -
+
+
+
+
+                                                            --            ↑   .
+                                                                                  All this limes
+                                                                          have the same
+                                                                 -
+                                 -
+
+
+
+
+Slope of =                       -
+                                           -
+                                               -
+
+                                                                         (slope     as   )    =
+                                                                                                  (*)
+                                     -- --
+                                         ⑦
+The                                   times parallel toY
+            equatio of the
+
+                                                         -
+                                                           :[
+                                                             t
+
+(called Characteristic limes (
+                                  I
+are                         Constant coefficients)
+                                                   t
+       X-ct            constant (all parallel)                       tX
+                                                                 =
+
+
+                   =
+
+                        -
+
+
+
+                                                             X       ct   p
+(the
+  limes
+                                         changes)
+                                                                          =
+                          the constant
+                                                                 -
+
+
+
+
+              more as
+
+
+
+Then   if    the   solution     ze(xit)      is        constant in the
+
+directo        of         We   must have that a only
+
+                       X-ct)
+ depends       on
+
+
+
+                x(x +)    ,
+                                 =       f(x       -
+
+                                                       ct)       for any
+  f function of a variable                     .
+

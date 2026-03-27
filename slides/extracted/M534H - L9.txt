@@ -1,0 +1,630 @@
+  Math                                         Lecture 9                           ①
+           534H    -
+
+
+
+
+                        Spring   2026     -
+
+
+
+
+Recall from last time             we    were    reduced to                :
+
+
+
+
+                                                    Need to solve
+      n
+           -
+
+
+
+
+               (4x
+                        =
+                            g(x ct)
+                                  -
+
+
+
+
+                                                this to
+                                                                                   ?
+
+This is   an
+               inhomogeneous transport equation
+                                                     find        2   .
+
+
+
+
+                                                                              .
+                                                                                   ↓
+So   we   know that         X(t)      =
+                                          sol to the         +
+                                                                     particular
+                                                                         sotof
+
+                                              homogotim
+                                                                               .
+
+
+
+
+Homogeneous equation                                                 inhomog
+                                                                         problem .
+                   0        Charact limes               ct       cust
+  4t-Chy                                        X
+               =                                    +        =                 .
+
+
+
+
+to the homog       ,
+                       solution       h(X + ct) for any
+                                                         variable
+hiR       -
+           >   I   differentiable far of            me
+                                                                       ②
+                                          soluti a
+Strauss :
+                 Guesses that         a
+
+
+
+                                      should look         like
+                 g(X- ct)
+                                                                  a
+
+ 2y-c2
+             =
+
+
+
+
+                                              *
+ function        4Ext)    =
+                              f(x ct) where as
+                                      -
+                                                                  a
+
+
+
+
+function of               variable                        that
+                   me
+                                          sastifies
+                                              ?   Because if b
+     f'(s)                            Why
+             =
+                          )       .
+
+
+
+
+                                      -
+
+
+
+
+is    true
+             theninf(
+                     -in                  F
+     nch                                      ffc)-cf
+                    inh
+But                           =
+                                  gE                              =
+       -
+                                  =)
+                                          -
+
+
+
+
+                                              22f'   =
+                                                         gi   =
+                                                                  f=
+                                                                   -
+
+
+
+                                                                                              ③
+ Hence the solution                               2(X    ,   t)   of t    is
+
+
+
+
+        x(x +)
+             ,                 =             h(x xt) + f(x ct)
+                                                     +
+                                                                          -
+
+
+
+
+where                                                                              variable
+         hif             are
+                                       differentable functions of          one
+
+
+
+
+ R-R                       and
+                                                 f satisfies f(s) =
+But then if                               backward we get that in fact this
+                                       go
+                                         ,
+
+
+
+
+ 2( t)   ,
+                         solves                  Th      =    0    .
+
+
+
+
+                                             &
+
+
+
+
+So all in all th general solution to wave    Du
+                                          eg                                        .
+                                                                                              = o
+                               ,
+
+
+
+
+                 u(x +)            ,
+                                                 =   h(x+ ct) +          f(x xt)
+                                                                               -
+
+
+
+
+where                     he                                        from
+                                       any differentiable functions
+                 f   ,
+                                                                         -I.
+                                   =
+
+
+
+
+                         (twice)                     ↳
+                                                                                  ①
+Remark                            backward           how started
+                   :
+
+                        Going                   in
+                                                                     g
+                                                                         was
+
+
+
+
+              differentiable  functions of    variable
+itselfgeneral     a                                            one
+
+
+
+
+g
+   R-t
+     .
+
+
+          So        fact  -
+                            fand      hence f
+                                      in                                 is
+
+
+
+also                         functions  of    variable
+     general differentiable
+              a                                                one
+
+
+
+
+ f       :
+             R    -     R
+                                                     general
+                              .
+
+
+
+
+Want to revisit                                 thatsolution to Ju
+                                      finding                                 =
+                                                                                  -
+
+
+             two
+ in
+                       different ways      .
+
+
+                                               the Coordinate Method .
+Second                 Take       :
+                                      using
+
+
+
+
+                                               Nat
+(a change of variables)
+Let
+             23        = xt
+                                                                          -   -
+                                                                             ⑤
+Then let's find out            what   is   I  Et-EGX
+                                               =
+                                                                        in
+
+
+
+the             variables (3                (2+ (2x)( c)
+                                                                    -
+
+
+
+
+          new
+                           ,   45.
+                                                       2(x t)
+                                                          ,
+                                                                -
+                                                                    z(z 3)
+                                                                         ,
+
+
+
+
+= ==
+
+ -
+           C s
+The
+    (2 (2)       +
+                          =                        +
+
+
+
+                           =
+
+                                  2
+(2+ (x) =)
+      -
+                                      +
+
+                                           c( +)
+                                           So :
+                     -
+                     =
+                                                                                        ⑪
+                             4228
+  Bzy                                         2
+               =         -
+
+
+
+
+                                      ,
+                                                                         -
+
+                                                                 4 zu
+So solving                    Ju          =   o   Et
+                                                             -
+                                                                       -
+
+
+
+
+                                                                    2327
+                                                                                  =   o
+
+
+
+                                                  in   the           variables
+                                                             3,2
+
+
+
+               Gh
+#                                     =       0
+
+
+      n
+          (z   ,    y)            =
+                                              h(z)      +
+                                                              f(y)            whe
+                                                                                      f
+and   h            are
+                             any differentiable functions A-T                             .
+
+
+
+
+Coming     back              to   (x t)   ,
+                                                   #S        to what         we   had
+
+before
+          /Ex+-x(xt)                                                 ht + f
+                                                                 =
+                                                                                                          ⑰
+ Third take                 :   Use the Duhamel integral                               as        we   did
+
+ in    Lecture         G        to solve the                     inhomogeneous transport
+                                                                                       F(x t)
+ equation                   My                CHx                  F(x t)                             =
+                  :                     -
+                                                             =
+                                                                                             ,
+                                                                         ,
+
+
+                                                                                           g(x ct)
+                                                                                                 -
+
+
+
+
+Recall that sof                     .
+
+
+
+
+                                        homog equahm.
+                                                                        is             later at
+                                                                                                      end
+ ↑ (X            ct)            h           R           &
+                                                                     differentiable fc. YeY
+                                                                                                            .
+
+
+
+
+                                                             any
+        +                               :       -
+                        ,
+
+
+
+
+ Here
+            if   we
+                       repeat               what    we      did in Lecture 6
+                                                                                   ,       parametizing
+the characteristiclimes                                 which are
+                                                                                                            S)
+                                                                         y(s) (x
+                                                                               =       -
+                                                                                           ss
+                                                                                                 ,
+                                                                                                      t+
+
+we
+      get
+                                                        -
+
+     x(x +) = (x + ct) +
+        ,
+                                                f       F(x
+                                                              -
+                                                                 -
+
+
+
+                                                                     ( -) ,        +)di
+                                                                                   -
+
+
+
+                                                                                second variable
+                                                   8
+                                                             ist variable
+                                                                                ⑤
+Now      we   recall           F(x +)
+                                  ,
+                                          =
+                                              g(x-ct)           So   the Duhamel
+
+integral beamtes
+     t
+
+ S       g(x      -
+
+                      ( t)c-
+                                      -
+
+
+
+
+                                          xt)d         =
+
+
+  D
+                  -
+                                                               to
+                  x       zx +        ct
+                                                                           ct
+                      -
+
+
+
+
+                                                   y       X        2 +
+                                                               -
+
+                                                       =
+          X-ct
+
+-Sg(2) dy                                         dy   =
+                                                           -
+                                                                    2d =
+
+         X + ct
+                                                   di      =
+                                                                2C
+                                                                     dy
+                      X+   ct
+
+
+
+=                              g(y)dy         .
+
+
+
+
+                      -
+                          ct
+
+All      in   all         we    get
+                                                          x+     ct            ⑨
+
+ h(x t) ,           =    h(x ct)  +         +
+
+
+                                                +                gy            t
+
+
+                                            back this
+and
+     actually tracing                                            2(xit)
+solves the
+                  equati Dn
+                        wave                                 =
+                                                                 0    and
+
+we    can    newrite          t       as
+
+
+
+
+  h(x +),
+                    =     H(x (t) + G(x ct) for
+                                      +                  -
+
+
+
+
+                              R -@
+any         #
+                ,
+                    6     :
+                                             (wideffealiable          .
+
+
+
+
+Now         suppose       we      are
+                                          given
+                                                  the initial valve
+                                                                          problem
+                                                             [IVP)
+                                                                                       ⑳
+
+
+ E
+      Dn                                                                              ?
+                                               &
+                                               .
+                           0
+                                                     What'sre(x t)
+                  =
+
+                                                                              .
+
+
+
+
+                               G(x)
+                                               z
+       x (       0)        =
+             ,
+
+                                                 CLASS Amwa                       read
+                                                                          you
+       z(    ,   0)        =
+                               Y(X)                how strauss does it
+                                                              2(x t) =        h(x c)+f(x ct)
+                                to         +        Using                         +
+Here
+                                                                                         -
+
+
+
+
+                                                                  ,
+                                     use
+       we   cre
+                      going
+                                                              ,h
+                                                              f
+                                                                      :   R+ R
+at the      top of the previous page
+                                       h(x) + 0                   h           &
+P()    =    u(x        ,   0)    =                           =>           =
+
+
+
+
+TA
+Next plrj         +        =   0 and       use
+                                                    z(X 0)
+                                                         .
+                                                                  =
+                                                                          ↑ () toget
+                                                                                ⑪
+
+
+      Y(x)       =
+                          cb'(x)       +
+                                           g(x)     =
+                                                        g(x)
+                                                               =
+                                                                   4(x)   -
+
+
+
+
+                                                                              c(x)
+Alt   in   all    we      get D'Alambert for mul for the
+solution         of       the       FXP     for the     wave
+                                                                   eq
+                                                                   .
+
+
+
+
+                                                                   X+   ct
+x(x z),
+            =
+
+                  =[p(x         +   ct) + p(x   -
+
+
+
+
+                                                           S
+                                                    ct)]+- 4(y)dy
+                                                               X-Ct
+
+
+
+
+Next time WeDo some examples and start
+                                          (finite      speed domain of
+Sectio           2 2
+                  .
+                          m
+                                Causality         prop     ;
+
+dependence            ;
+                          domain
+                                    of influence) and Energy for wave
+

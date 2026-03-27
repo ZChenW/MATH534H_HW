@@ -1,0 +1,618 @@
+  Moth 534H                                         Lecture                              ①
+                            Spring       2026                        10
+                       -                        -
+
+
+
+
+Some examples               !
+
+
+
+
+                                                                    several sol
+
+
+
+o
+                                                -
+        ret-caxx                      =
+                                                            -
+
+
+
+                                                    [
+            u(x , 0)        =       Sinx                 2 (x   ,   t)   =
+                                                                             F(x ct) +
+                                                                                -
+
+
+
+
+                      0)
+            u(x
+                                =    0
+                  ,
+
+                                                                               G(x ct)
+                                                                                    +
+
+
+
+
+Using D'Alembert's formula                      .
+                                                                              X + ct
+
+
+h(x +)      =
+
+                +      (g(x          +   ct) + p(x
+                                                         ct)] ++(4(3dy
+                                                     -
+
+
+
+    ,
+
+
+
+
+                                                                   "O
+& ()    =   Sin X
+                                                                     At
+                                                                                    - =0
+
+P(x)                             = [sin(x ct)
+                       Sin(x-ct] ED
+        =   0
+                           xt)
+                      ~
+                                                +    +
+                                                                                                                &
+                               = [sinx cos(t)]
+  u(x t)           ,
+
+
+
+
+   u(x t)      ,
+                               =
+                                       Sim   x cos(ct)
+                                              ~
+Check                  :       Check     FC    :     U(X       ,   0)    =     sinx     .   cos (c 0)   .
+
+
+
+
+                                                                                  Sim           Cos o
+                                        (sim (ct))(a)
+                                                                           =            X
+
+                               Sinx
+                                                                                            .
+
+
+
+
+ 4 (x t)   ,
+                           =                                                                    -
+                                                                                                            1
+      ↑
+                                                                                                    =
+
+
+
+
+                                                                           =      Sin X                         ~
+                                                     (at)
+                                                                                                .
+
+
+
+
+                           =   -   C   Sin   X Sin
+                                               -
+                                                      t = 0         this     is   o
+
+
+n(x 0)                     =       0     ~
+       ,
+
+
+
+
+Chuck equation :
+                                       From )                       =    - C Six        cost
+
+                                                               t)            c Sin x cos(ct)
+                                                   hyz(X
+                                                                     =
+                                                                         -
+
+
+
+
+                                                           ,
+
+
+
+
+Next       From
+
+    2 (xit)                     =
+                                       cosXcos(ct) ;                Yxx (xt)       =
+                                                                                       (sinx)cos(1)
+Hence                                                                                ③
+                    cuxx (xt)             -sinx cost) + sin cos
+(x)                                   =
+                                                                                  (
+                -
+
+
+
+
+                                      =    o              as     denud       .        *
+
+
+②
+
+
+    E
+        4t
+                -
+
+
+
+
+                    144xx     =   0            From D'Alambert's            formula
+                                                                         X+ 4t
+
+
+
+                                                             = J cosy dy
+                             0
+        u(x , 0)         =
+
+
+                                               u(X t)
+                                                    ,
+
+
+
+        u(X b)  ,
+                         =   cosX
+
+
+
+                                                                  X 4t
+            4
+                                                                     -
+
+
+
+
+ c      =
+
+
+
+
+↓       u(x     ,   +)   =
+
+                             - (sin(x          +   4t)   =
+
+
+
+                                                             Sin(x   -
+
+
+
+
+                                                                         yt)]
+                         = [2cs                    X     Sin
+                                                               (4t)]
+                                                                         CLASS HMWY
+                                      Cos X        Sim    (4t)
+                         =
+                                                                         -
+
+
+                                                                     Check
+                                                                         -
+                                                                                 ↓
+                                                                                        ⑪
+③        34et + 4xx        -
+
+
+
+
+                               44xz     =     0    .
+                                                           Es           this
+                                                                               hyperbolic    ?
+
+                                                                                       Yes
+
+ a   =
+         192   =   3
+                               ar   =
+                                        -29229
+                                                                    -
+
+
+                                                                        9      =
+                                                                                       Z
+
+
+
+
+                                                           3   -
+
+
+
+
+                                                                    ( - 2)     10
+                                                                               =
+                                                                                   -
+
+
+
+
+* we                  feature 8
+       explained   in                       we can                       Hyperbolic
+         the            changes  variables and convent this
+complete      squares      ;
+
+          to                            the     variables
+                          equation
+                                                                                        .
+equation      a    wave                       in                new
+
+
+
+
+                           E
+ho given     # XP      :            34t   +   4xx
+                                                           -
+
+
+
+
+                                                               4xxt       =
+                                                                               0
+
+              -
+
+
+
+
+                                    u(x , 0)           =
+                                                               2x
+
+
+
+                                        (4 , 0)
+                               -                                o
+                                                           =
+
+
+
+
+solreit!side butt
+                                                                                                   ⑤
+to relaxe
+
+Want to      hange
+                   -=
+                    .  variables                                2 24
+                                                                                       t
+                                                          +
+                                                                                       Ea
+             c                           ·
+                                                                   -
+
+                                                                                   =
+
+
+
+
+because them              have                                   27            =
+
+                                                                                   Gz
+                                        -Any
+                     we                           =   0
+
+
+                                                                                    ⑪
+Remark
+             Note that     ( 22)u   -
+                                              -
+
+
+
+                                                    Eu         =   0
+
+
+                          (2x           - 2z)(2 22 2)u
+   ES                           -
+                                    24            +
+                                                          -
+                                                                                       =   0
+
+
+
+   E                      (2x   -
+
+
+
+
+                                        32)(2         -
+
+
+
+
+                                                          2)           =       0
+
+
+ We    can
+             guess from
+                           what         we   did    before in Lectures 8 9                 ,
+
+
+
+that      hixit) should be               f(3x ++) + g(X+b) for                         fig
+general differentiable functions of                   one     variable     .
+
+
+
+
+One
+      way
+                 would be to check that            u (x ,+ ) =
+                                                                 f(3x ++ ) g(x t)  +           +
+                                                                                                               &
+  satisfies           34tt + 4xx- 44x7                             =       0       and then
+
+ use       the       IC   .    to       fund         what         is   f and g.
+
+Let's continue form (we'll get to                                                  some            answe
+                                                                                       2
+  X    =
+             13 +         B2                2
+                                                     =
+                                                           2           +
+                                                                           2       .
+
+
+
+
+  t                                                                    +
+                                                                               2           S
+        =
+                wz    +
+                          87                by
+                                                 =
+                                                          2yB
+                                                                                       .
+
+
+
+
+From +we get                        <   =   1
+                                                 ,
+                                                         V=   -
+                                                                  2
+                                                                       ,
+                                                                           B       =       0
+                                                                                               ,
+                                                                                                    8 =1   /
+
+
+
+
+                                        (3
+  X =       3                                        =    x
+
+                               =
+  t                                                       2x +    t
+       =
+             y
+                 -
+
+
+
+                     23                     2
+                                                 =
+
+
+
+
+·.     Our eqalim              in   the     new          variables         is -Lu                          =0
+
+
+
+
+Hence            ((3 7)
+                      ,
+                                =
+                                        f(z y)   +            +
+                                                                   g(5 2)      -                   where
+                                                                                                               ⑦
+    -   ,
+             g
+                       are
+                                   general differentiable functions ofm
+ variables                 .
+                                   t              coming
+                                                                back       to           (x t)
+                                                                                          ,
+                                                                                                      we
+
+
+
+  get the general solution to 34 +                                              +
+                                                                                        4xx 44x
+                                                                                                          =    0
+
+
+
+ is          u(x +)    ,           =
+                                            f(3x       +   t) + g (x t)         -
+
+
+
+
+=            n(x ,         t)      =
+                                            f(3x + t)            +
+                                                                         g(x    +
+                                                                                        t)        #
+where
+              f    ,           g    are         general differentiable                  functions of
+                                                                          determine what
+one     variable   e.
+                                   Finally           we    need to                                             is
+
+
+                                                           that
+                                                                         S u(x
+                       what
+ f          and                        is
+                                                 so                       h(x 0).
+                                                                                              =
+
+                                                                                                      2x
+                                                                                    ,   0)        =   0    .
+
+
+
+
+  ⑪                                ⑪
+2x      =    k(x 0)    ,           =
+                                            f(zx) + g(x)]D
+Next        ampule
+                               u(x     ,   t)    =
+                                                     f (3x t ) 1 + g'(x t) 1
+                                                            +
+                                                                     .
+                                                                                         +        .
+                                                                          ⑧
+ Hence
+             #
+         0    =
+                  m(x a     ,
+                                  =
+                                       f'(x)      +
+                                                      y(x)]
+We
+     get from         I     and       &        that
+
+
+                          f(3x) + g(x)
+     S
+         2x       =
+
+
+
+
+         0        =
+                           f'(3x) + j(x)              We need to   find
+                                                       f and g
+To do this by differentiating the
+
+ first equation            in X       we   set
+
+                           3f'(3x)             g(x)
+         E
+              2       =                    +            Now solve for
+
+              0       =
+                           f (3x) + y(x)                  J'and g/
+                                                                                              &
+ we    get       that                2   =
+                                                2f'(3x)           =
+                                                                      f'(x)           =   1
+
+                                                                                      #X
+But since this is true Ex                            by celling
+       z     =    3X
+                       ,
+                            we           have
+                                                    f'(z)     =   )   +
+                                                                          f(z) z + +, =
+
+
+
+
+Multiply         second
+                                eg
+                                     .
+
+
+
+
+                                         by     -3      and   add the two to
+
+get
+              2        =    -
+
+
+
+
+                                25(x)               =
+                                                        /(x)          =   =
+                                                                              1
+
+
+  =
+                  g(w)           =       -
+                                             w +    C
+
+Henc
+
+                                 (
+            u(x , t)        =
+                                                                                  )+
+                                                                      & (x t)     +
+
+
+ u( t)  ,
+                 =     2X   + + 22              .
+                                                    But now recall that
+                                                                              -       -
+                                                                        ⑯
+2x    =        u(X , 0)            =        G +2        =   0    .
+
+
+
+
+    Initial
+                   positive
+
+All       in        all       we
+                                   get
+                                           a(X t)   ,
+                                                            =   2 x   soles
+
+
+
+
+E
+34tt           +
+                     4xx           44xt
+                                            =   0
+                              -
+
+
+
+
+     U (x , 0)            =    2x
+
+
+                   0)
+      u(x                  =
+                                   0
+                                       -
+
+
+
+
+               ,
+

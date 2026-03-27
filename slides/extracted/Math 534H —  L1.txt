@@ -1,0 +1,387 @@
+     M534H
+        Spring 2026 Lectured
+                          -
+
+
+
+
+      Mathematical Models PDE
+
+      ↑
+      based                     laws           for ex.aming from quartim mechanics
+·
+
+                  general
+      (mass                    momentum             etc) .
+              ,   every   ,                     ,
+
+
+                                                      which
+or    on
+           experiments          in
+                                  depend stringly
+                                        nature                                         on
+
+
+
+
+the features
+             of the Phenomena being under consideration                                 .
+
+
+
+                                                              Former Law
+JFick's           far for
+                          diffusion                   ;                    of   heat
+
+     anduction ,         etc)
+                    d
+A      PDE mM             is        a   relation am                   independent
+                                                                ong
+ variables          X
+                        ,, X2   ,    X3   ,   -- Xy       ,
+                                                              the
+                                                                    dependente variable
+                                        and the
+    2   =    x(X ,    -    -   Xd)                      partial derivatives of
+
+             (ex                            ---(
+ ~
+
+
+
+
+                  P                 ↑
+
+*                 ux4xxj
+    F (x     ,,   X2 , .   -   -
+
+
+                                   Xy , u , 2x ,   =
+
+
+
+
+                                                       j4xy / 4x ,, 4xx       -   -
+                                                                                      )   =
+                                                                                              0
+                                                                       x
+                                                                   ,
+
+
+
+
+I       is   the      unknown              and is           a
+                                                                functive of d-variables           .
+
+
+
+
+Def This order of the PDE is the highest order
+         :
+
+
+
+
+o differatiation occuring in
+                                    Linear     PDE      :   when F is linear writ 2
+PDE           :
+                      >
+                      -
+                                                            and all its parbal derivatives
+
+                      -
+                      > NONLINEAR                      PDE
+    For umlinear PDE              we    can         distinguish certai
+types depending
+                             on
+                                   inlinearity
+                                  the
+
+
+·   SemiLiNEAR             Equations       :       F is muh near only
+
+a
+on                but it is linear     w   .   r
+                                               .
+                                                   t all the derivatives
+
+
+    of       I   that
+                        appear
+                                 and has            crefficients which
+at most             depend only        m            =
+                                                        (x   ,
+                                                                 --
+
+                                                                      ,   Yy)
+    QUASILINEAR EQUATIONS
+         -
+                                                     F is linear writ
+
+the          highest    order derivative            ofa that appears
+    with coefficients           at most
+                                        only
+                      depending                                            on   #
+                                                                                    ,
+                                                                                        2
+                                                                                        ,
+    and          lower order derivatives             ofa
+Fully    Nonbnear Equations                    F is umlinear           writ
+
+                    order derivatives                           that
+to the    highest                                      of   a
+                                                                       appear
+
+Examples of Linear Equations
+①   Transport Equations (with constant cofferent
+         +                        =    0           = ) given
+
+i                                      (first order)
+         (
+    =
+
+
+
+
+                          R
+Describes the  transport of solid substance    a
+
+
+
+
+(pollutant ; dye ) along channel with
+                          ,..
+                                           a
+
+
+
+
+                 is        Here            2(X t)                       the
+Stream
+         speed        .           In   =
+                                                   ,
+                                                            measures
+ ancentration
+                    of the substance
+&    Wave                     /second order)
+      ↑
+              equation
+     "Et -CA,k
+                               =    0                 constant
+
+
+ Du             ux x + 4xxz +                          uxaXy
+          =                               -   -   +
+                    ,   ,
+
+
+
+Chaplazianofu)
+Describes the propagation    for example transversal
+                          of                                    ,
+
+
+reves
+        of small amplitude in
+                                    perfectly         a
+
+
+
+ePastic chord (violm) in 1D                       or      uembrane
+                                                          a
+
+
+
+(drum) in      2D       In 3D it                          the propagation
+                    .
+
+
+
+                                         governs
+of electromagnetic          waves   in   a    vacuum
+                                                            ,
+                                                                or   ofsmall
+                           sound waves .
+ amplitude
+                                                               the complitude
+ Here              h   =       n(X , 5)
+                                                 may represent
+                                     g
+                               Rnd
+                                          R      and
+                                                       c=propagation speed
+② Diffusion                        or     Heat
+                                                 Equator (second order)
+                                RA 2                                  Rxo
+               2
+                           -                     =   0
+                                          ,
+
+
+
+
+                             anduction
+For   ex   .
+               it describes the        of heat through
+ a
+      homogeneous and isotropic medium
+Cair ;        glass)
+                   water
+                               ;
+
+ z    =
+        (x t)  2 the temperature and R30
+                       ,
+                                     is
+                                                                   -
+
+
+
+
+ encodes the thermal                the medium
+                      properties of                                     .
+①     Laplace's Equation                     (stand order)
+       An        =    0              u   =
+                                              2() R
+        X
+
+
+
+
+The wave                                     model evolution (time
+            eg
+                 .   or
+                       diffusion eg      .
+
+
+
+
+                     The                                             dependent)
+ Phenomena       .
+                      Laplace equation
+describes   the
+                     corresponding steady-states                     in which
+
+the solution doesn't depend                        time
+                                                            any
+                                              on                  more .
+
+
+
+
+ We also have the                 inhomogeneous            version
+
+
+
+            Dxu           =
+                              f      where     f f(x)
+                                                   given
+                                                   =
+
+
+
+
+                              ↳                term
+                    forcing                            .
+
+
+
+
+ called the Poisson
+                    equation
+② Black-Scholes Equatio (scand under)
+     X 30           t = on            =   u(X t)  ,
+               ,
+
+
+
+         45    +       +
+                        2
+                              +2x   24xx          +
+                                                      (4x y
+                                                               -
+
+
+                                                                          =   0
+                       -
+                        coefficient               cefficient       constant creficent
+15   &
+         T
+          -
+              are
+                       given
+                               constants      C
+ 4                     rate
+volatility
+③
+         Vibrating plate (fourth order
+                        An                            Xer
+         "Et                        =     0
+                   -
+
+
+
+
+                               =
+                                                                           BILAPLACEAN
+                                                                              or
+
+
+
+
+ n        =    A(x)                                                           mi
+
+                                                                            operator)
+⑦ Schrodinger equation                               (secd order)
+           Clinear)
+                               -
+
+
+
+
+                                   im            =
+                                                     An   +   M 2
+                                                                .
+
+
+
+
+ i   =
+
+
+
+
+      cmplex weit
+i    =    F
+                              V    =
+                                        V(x) given potential
+                                                     (function) -
+ n    =   2(X , t)      is
+                           complex valued   -
+
+
+
+
+This
+          eq
+               is   fundamental   quantum
+                                   in     mechanics
+                                                    ;
+                                                      it
+
+
+governs
+               the exolution
+                                   of       a
+                                                particle subject to
+
+ a
+      potential W        .
+
+
+
+
+The       function           1212       =
+                                                probability ducity   -
+

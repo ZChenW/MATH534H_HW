@@ -1,0 +1,1014 @@
+                                                                                                    ①
+    Math 534H-Spring 2026. Lectures6 and 7 Part I
+
+     How    do     we    solve the
+                                          inhomogeneous transport equatio                           :
+
+
+
+
+                 (
+                     *       +   bax         =    F( t) ,
+
+                                                                             eR           teR
+                     -                                                  X
+ITE)                                                                                  ,
+
+
+
+
+                                                                   I
+                                                                       2
+                             u(x , 0)
+                                                 q(x)       *
+                                             =
+
+
+
+
+                                                                                     argument
+                                                                       Similar
+
+where b is               a   scalar       bet                          works ↓
+                                      ,
+                                                                        where   me   has
+
+We know the solution to                    FITE)   is   the              ut + 5 ·u        X
+                                                                                              =   F(x t)
+                                                                                                     ,
+
+
+
+                                                                   instead and            Fe&
+       of the solution to the homogeneous
+                                                                                I
+
+
+
+
+Sum
+&
+
+
+
+
+    problem (together with the auxiliary condition                              *    if given);
+that              the solution to
+                                             E   n + bux
+            is                                                                  0
+                                                                                          (E)
+                                                                         =
+
+
+
+                                                       2i(x
+                                                                                              :
+
+
+
+
+                                                   l
+
+
+
+
+                                                              ,   0)     =
+                                                                                g(X)
+
+plus    a
+                 particular       solution to      :
+                                                                                                                           ②
+
+ E
+             +    bux           =   F(x , t)
+
+             x(X 0),
+                            =       0
+                                             (since the auxiliary audition * has
+                                                                been taken into account
+                                              already
+                                               when
+                                                     solving the (TE))                           :
+
+                                                                                                                       ·
+
+
+
+
+We know how to solve                          ITE)              :       the general solutio
+                                                                        -
+
+
+
+
+     constant                               the characteristic times                                           in the
+is
+                       along
+direction        of the Vector [T              =
+                                                    (b d)   ,
+                                                                            .       Let's                write these
+
+times in parametric form
+                                                        X(s) (x     =                   +   sb
+                                                                                                     ,
+                                                                                                         t + s) Set
+                                                                                                                   ,
+
+Therefore if                    let          z(s)           2   (x + sb                         t + s) =
+                                                                                                              20y(s)       -
+                       we               .
+                                                    :   =
+                                                                                            ,
+
+
+
+
+-bits) +x
+                                    ·
+                                                        +   sbts b              .
+
+                                                                                                 (by chain or e
+         =
+                 m          ,
+                                )+            bu                    ,           -)                                         -
+
+
+
+
+         =        O    if           U       solves          HTE
+                                                                                    ,
+                                                                                        that
+                                                                                                     is        =   0
+
+     *
+                                                                                                          -
+                                                                                                                                   ③
+Therefore z(s)                              is              constant on the times##)
+     t           A
+                                                                                                         The time intersects
+                               Y (3 1) (X + sb t s)
+                                       =            ,
+                                                                                 ,
+                                                                                         +
+
+                     M
+
+
+
+
+                                   ↑
+                                       - (x t)          .
+                                                              ,
+                                                                                                     Rx[t o] when  =
+
+
+
+
+                                                                                                        t (s t 0)
+                                       I
+
+
+
+
+                                                                                                     s
+   =
+                                                                                                           =   -
+                                                                                                                               +   =
+
+                                                                        >
+
+                         (b %          ,
+                                                                             X                   *
+                                            *                                                        Choose            S= o
+
+
+                                                                                                                                   t
+From (t) then                                                     zct)
+                                                                                                                       S       -
+                                                                                                                           =
+
+                                       z(u)                  =
+
+
+                                           11                           1)
+
+                         u(x   +       0b
+                                                ,
+                                                    t+       o)   =
+                                                                      x(x    -
+                                                                                 +b
+                                                                                             ,
+                                                                                                 t   -
+
+
+
+
+                                                                                                         t)
+                               2(x              ,       +)        =    y(x +b                        ,
+                                                                                                         0
+             ·
+                 e
+
+
+                     O
+                                       h(x t)       ,
+                                                                  =
+                                                                       g(X t b) by   -
+                                                                                                                   *
+                                                                                                                       ;
+                                                                                                                           solves
+
+  the                homogeneous transport equation HITE)
+Now      ,           if we wanted to solve instead the
+                                                                                                                    #
+
+CITE)            we           would need that z(s)                      =
+                                                                            2(x + Sb + + S)/        ,
+
+
+
+
+    -        =
+                      ((x         +   5) ++s) +
+                                              ,                bay(x s) t 5)+
+                                                                                    ,
+                                                                                                +           .
+                                                                                                                 to
+
+                 b same colculation
+                                                           before
+                                                                                            6
+
+
+
+
+                                                      as
+
+
+
+
+    equal
+                  =
+                              F(x         +   sb , + + 5)
+                                                               instead of                       =
+                                                                                                        0       asin #
+                                                                                                                      &
+                                                                                                                         )
+That
+         -
+             is       we          have now that                        z'(s)   =
+                                                                                    F(x sbit + s)
+                                                                                                +
+
+
+
+
+So by                 the Fundamental There of Clarks                                               we           have
+     ,
+
+                                                                            (FTC)
+that
+                                                       go
+                                              FTC
+
+
+             z(0)             -
+
+
+
+
+                                  z(t)            =
+                                                               E(s) ds
+    -
+                                                           -
+                                                       -
+
+
+
+
+                                                               gF(x
+                          S
+
+
+
+
+=   u(X t)   ,            -
+
+                              -
+                               g(x tb)    -
+
+
+
+
+                                                      =
+                                                                               +   sb t + s)ds
+                                                                                        ,
+                                                                                                                      =
+
+
+
+
+                 sol homog
+                      .               -
+                                          problem              -
+                                                                   t
+                            t
+                                                                                     ⑤
+         I
+                &
+                        S       F(x + (t t)b
+                                          -
+
+
+
+                                                  ,
+                                                      z)di
+Change of
+                            &
+
+variables       T : = t+ S                            ↑   is   the
+                                                               untim
+                                                                      particularenogeneous
+            dt          =   dS                            so
+
+                                                                equation
+                                               DUHAMEL INTEGRAL
+Hence
+
+
+
+    ~fx             .   x) =     g(x +b)
+                                     -
+                                              +       F(x + ( t)b , z)d =
+                                                                -
+
+
+
+
+                                                           for the F
+                                                                    ↑ need to compute..
+
+
+
+
+solves                                                     > Finan
+                                                           -
+
+
+
+
+     CITE)(4
+                                    +
+                                         >ux              F(xt)
+            &
+
+
+
+
+                                                                            -
+
+
+
+
+                                                  =
+
+
+
+                                                                        -
+
+
+
+
+                                    u(x , 0)          =
+                                                          g(x)
+                                                                                  F
+                                                                                     ⑤
+ 1. 4          Initial and
+                                       Boundary
+                                                           Anditions     (Axivitrous)
+      ·
+           single out       one       solution     out     of possibly infinite
+
+ many
+                  we     need     auxiliary audition besides the              PDE
+
+     itself (similar             as   it was the    case   with   ODE)
+Two            common
+                            auxiliary      anditions          are :
+
+
+
+
+1)   INITIAL VALusConditions                      for   the   solution   of the PDE
+                                                   the solution
+2)    Boundary conditions
+                                            for                   of the PDE posed
+                      (bounded
+          on    some     domain        RER!
+ In            some    cases     we   need to    impose both          D and 2)   -
+
+
+
+
+ 1) Initial conditions specify the physical state of                             a
+time    dependent PDE at               .
+                                                                a
+                                                                    particular time                     t   =   .
+                                                                                                                t
+
+Examples                 :
+
+
+
+
+a)    Diffusion                   or       Heat        Equation          :
+
+
+
+
+                             RD                                 Rx0          instant
+
+ E
+                                           h
+     =                             ,           ,
+
+
+
+
+     u(x 0) ,
+                         =
+                                  f(x)                 to   =   0   here and           f) describes the
+                                                       initial        concentration our temperature
+
+b)    Wave               Equation              :
+
+
+
+                                  <D                                (c           speed of              constant)
+
+E
+                                                       h
+        "Et                  =
+                                                                             =              wave
+                                                   ,                                               ,
+
+
+
+
+     h(x. 0)                 =
+                                   q(x)            ->       describes the initial position
+
+     25(X       ,   0)        =
+                                       Y(X)            -    describes the initial
+                                                                                              velocity
+hole that                since     the
+                                            equation involves the second derivative in
+time
+        ofa                  we   need         2       conditions to determine h(X 4)                   ,
+                                                                                      ①
+2)    When PDE are                 defined       on   domains     & RM
+
+it   is
+          necessary specify
+                          to
+                                   Boundary      some                  conditions
+
+too the solution to be (uniquely) determined                       .
+
+
+
+
+In   ID   & could be         interval ;                      in   2D
+                                            an                          a
+                                                                            regim
+in the        plane       in       3D   a   container       etc.
+                      ,                                 ;
+The       3   most    important/common brundary conditions                      are
+
+
+
+
+a) Dirichlet BC                .
+                                    where     me
+                                                      specifies 2) the value
+      of 2 at the boundary oh of the domain                                   .
+
+
+
+
+b)                                  whos
+
+                                                      specifies
+      Neumann             BC   .
+                                             we                             the value
+
+
+                                                                       ar
+
+of the        (external) normal derivative of be at the boundary oh
+                                                                                              constant. ⑨
+ of the domain                                                            a =   given
+                                                                                              ↑
+
+
+
+                                                                                              an
+ a) Robins
+                                                                              (o
+                            BC :           here
+                                                         specifies
+                                                   one
+                                                                                zU
+
+
+
+that is               a   linear combination of the
+                                                                                                      ar
+value                     the normal derivative                           and the
+                 of                           of i                                            value         of
+ u
+       /both)             at the
+                                           boundary      E
+                                                                     of the domain                .
+
+
+
+
+ Examples
+ i)     1         wave
+                                eq Net.
+                                              -
+
+
+                                                  uxx    =   0
+                                                                 ,
+                                                                     x    +   [0   ,   e]     (sWing)
+   Dirichlet BC                   .       would   be     210 ,       5)   =
+                                                                              g(t) ; h(f t) h(t)      ,
+                                                                                                           =
+
+
+
+
+interval       [0 , 9]      :
+                                                                                       When                    and
+           ②
+                                          ·                                                       g=o
+       %                                  b
+                                            value here for all t                       h = 0      we
+                                                                                                          refer  to
+ value         here
+                      for all t                    is   hIt)                       these as himogeneous
+  is
+       g(t)                                                                        D rich let BC
+On the         other       hand   Hermann         BC       would            be                   ⑩
+
+    -    (0 t)
+           ,
+                       =
+                           f(t) ; ( t)        ,
+                                                       =
+                                                               j(t)
+               normal
+           ↓      [0 , 1] -        differentiation in the x-direction                       .
+
+
+
+
+In the         case    where the      ID    wave
+                                                   equation describes
+a
+     vibrating string them              :
+
+
+
+
+·
+    If   string       is
+                           fixed at both ends =                x(0 +)   ,
+                                                                            =   0   =   G       ( t)
+                                                                                                 ,
+
+
+
+                                                   Chrmog Dirichlet BC)
+                                                                    .
+
+
+
+
+·
+    Ifme end is free
+                                  to move
+                                            transversally without
+     resistence then there is no resistance                at end           which gives
+
+    (say this is the end at 1) hy(1 t)                          ,
+                                                                            =    .
+                                                                                 0
+
+
+                                              Chomog Neuman BC at
+                                                           .
+                                                                                    .       x=       1)   .
+·
+    If   one      end      is
+                                free to move Br it is attached to
+                                                                                                  ⑪
+ -
+
+
+
+
+      say
+            -    a     coited
+                                 spring         (obeying Hooke's law)                     which
+
+tends            to
+                      pull back the string to the equilibrium position ;
+them at that end                     we   would
+                                                  specify Roisin BC                   .
+
+
+
+
+ ·
+     If     one       end   of the string is moved                in   a
+                                                                               specific way
+ then           we     would have Inhomogeneous Dirichlet BC
+
+     at that end
+
+if Afusion Equa
+                tim                          ·
+                                                   if   the
+                                                                diffusing       substance
+      is        enclosed         a    containerIf          so   that none can
+                                                                                           escape
+                            on
+
+
+      enter           then the concentration                                        the normal
+or
+                                             gradient                          in
+
+direction. must vanish on the                                                   that is
+                                                  boundary       or        :                 we
+
+
+ would have                                        Lomog
+
+                           =
+                                            o                   Neumann              BC.
+                                                           .
+                                     2
+                                                   ( Fick's Law)
+                                                                                                                     ⑫
+                             -
+
+
+
+
+     ·
+              if       on   the      other hand the antainer &                             is       permeable    .
+                                                    ,
+
+
+
+ and               it   is       constructed            that             substance that
+                                                                   any                                      escopes
+                                                   so
+
+
+
+ the               container through the
+                                                              boundary       at            is       immediately
+"washed
+                                          ↑
+
+
+                                 away          (think container is immersed in water)
+                                 must     have
+                                                                         Jhomog Dirichlet B )
+                                                        3)
+ then                  we                                                             .
+
+
+
+
+ii)            Heat
+                                 equation       (same eg      .    as
+                                                                        Diffusive)
+                                                                                              and time t
+          ·        recall         now         2 (xit)   =
+                                                            temperature      at           x
+
+
+
+     Let's                   suppose you
+                                                 have   a    nod        In
+                                                                             through which heat
+                                         Assume &
+         is
+                   flowing           .                        is    insulated     -
+
+
+
+
+                                                                                          along its length
+Xe       [0        ,
+                        l]        and     the end           of the (Not) Fod              at        X   =
+                                                                                                            1   is
+
+
+
+immersed in                      Gool) reservoir of temperature gltt If heat
+                                 a                                                              .
+                                                                     the reservoir
+                                                                                                   ⑬
+     were
+               exchanged between the end                    and
+
+
+     (obeying      Newton's
+                                 cooling law) then                   we   would have
+
+                                       t) + au/fit)                                       RobinB
+ for      some    aso
+                           u(f     .                             =    a
+                                                                          g(t)
+     -
+
+         eat   from the hot rod radiates into the cool                              reservoir .
+
+
+
+
+ Conditions                        on          unbounded domains or
+                    at
+                          infinity
+1)       Schrodinger eq         has anservation              of mass                so
+                                                                                          if
+                                #3 he'd have
+         we
+               are-say-in                                    (16               ,   e)dx   =    constant
+
+ But this                                                    R3
+                   implies that in              a
+
+
+
+     suitable sense h(xit) most "vanish" at
+                                          Spatial) unfinity
+2) Laplace's equation                    An
+                                           X
+                                                =   o       on       R     .
+                                                                                   Solutions     are
+
+
+minimizers           of   the
+                                "energy"       ECU)     =
+
+
+                                                             (InEdx                      -   this
+                                                            that in                 sitable              (4
+    quantily being finite implies                                               a
+
+
+
+
+    sense         Yu        "vanishes" at infinity                         in   E        .   -
+
+    (there    is      no    time here          z   =    x(x)              X =   *
+                                                                                     )
+
+1 5
+.
+
+
+         Well-posedness of PDE
+
+Given         a   PDE       &ERP together with
+                            on   a    drmain           set
+                                                              ,
+                                                                                             a
+
+
+
+
+of arxiliary auditions (initial and/or boundary anditions)
+    Example       :
+                      vibrating shing has both              u(x 0),
+                                                                          =
+                                                                              P(x)h(0 +) ,
+                                                                                                     =
+                                                                                                         g(t)
+                            Io       ef                                       4()2(t t) h(t)
+                                                                                                 -
+
+
+
+
+                       on
+                                 ,
+                                                            u(x 0)    ,
+                                                                          =
+
+                                                                                         ,
+                                                                                                     =
+
+
+
+                                                            -                       -
+                                                            IC
+                                                                                    BC .
+
+
+
+We      are       interested
+                                      mainly       on   3
+                                                            questions about solutions                      :
+                                                                           solution
+                                                                                                                ⑮5
+        Existence
+·                           :   There exists           at    least   one                    a
+                                                                                                 satisfying
+                                                                           (                                       (
+                                                                                for time         dependent PD
+        the equation -> given auxiliaryconditions                          -
+                                                                               conhave           local in time 7
+                                                                                       en
+                                                                                                 global in time F
+                                                                                            ·
+
+
+
+
+                                        There          at most one solution
+    ·
+            Uniqueness              :             is
+
+
+
+
+    ·
+            Stability The unique solution depuds in                              a         stable (continuous)
+
+            manner    the data of the problem
+                        on
+                                              (that                    :          is
+                                                                                       ,
+                                                                                            if "the data     are
+
+
+
+            changed     a       little     ,
+                                               then the
+                                                            corresponding solutions also change
+            only   a   little")          .
+    Remarks             :       ·
+                                        If too few auxiliaryconditions                     are
+                                                                                                 imposed then
+    there               be          more       than one solution     (non-uniqueness) and the
+               may
+
+        problem        is       called          undetermined.
+
+       If there       too         then there     be No solution                                             at all
+                           many              may
+        ·                           are
+
+
+
+
+    (nm-existence) and the problem is called overdetermined
+                                                                                        T
+The
+·
+           stability property         is
+                                               important       in
+                                                                    physical
+    problems      because one seldom is able to                     measure    data
+
+                  but
+    exactlyup to some error . Stability
+              ,                                                        guarantees
+that this shouldn't strew the    .
+                                                    problem
+          make
+                  precise the notion of stability                      needs
+    To                                                          one            a
+
+
+
+     norm/topology/metric                 in   which measure "nearness"
+
+     Nor-existence
+                              non-uniqueness -- ill-posedness
+·
+
+                          ;
+                                                    also instable
+    The PDE       problem     is   them
+                                          usually
+    For example
+                        althoughthe (linear) diffusion/heat .                      eq
+
+
+    are
+          generally well-posed                 as   time
+                                                              dependent        PDE
+
+
+    for all t >           O    (Forward in Time)
+                                                                ;
+                                                                      the BACKWArDS
+               (linear) heat                                                             ⑰
+ t co
+                                  equation      is
+                                                          ill-posed
+ Heuristically        one   can    understand
+                                                     why      :    in
+                                                                         diffusion
+or    heat processes it           is
+                                       impossible to know what
+past behavior could have led up to the concentration
+  temperature at   later time
+                                                                           S
+
+
+
+
+ or                          a                 .
+
+
+
+
+We'll revisit this but here is                 sketch
+                                           a
+                                                           of what happens          .
+
+
+
+Let's                  the heat
+         consider
+                                       equation      on
+                                                           Eit , i) periodic
+
+functive   .
+                One   can   show       that
+                                                Ut    =
+                                                             xx    ;
+                                                                        n (x , 0)   =
+                                                                                        f(x)
+has     solutions of the form
+                                              sim(x)          where
+#        h(x +)  ,
+                       =
+
+                        [an(t)
+an It)     =     e-hit an (0) and an (0)                     are   the         coefficient
+                                                                                     #
+of f         in      its   since   series / Former    series       (eg - odd periodic)
+                                                                        ·
+
+
+
+
+Note that when >O                       the   high frequency (12/ large)
+coefficients an(t)             =
+                                   eata(0) decay               much         faster than
+the       low
+                  frequency    ones     (smaller (n1)          .
+                                                                    And in fact
+one   can       show with this information that
+                                              I converges
+in        suitable sense                      rise   to a (well-posed) solution .
+                                   giving
+      a
+
+
+
+
+However         if    ECO           (backwards heat eq )            .
+                                                                            we   instead
+                                            n2                              -
+
+
+have that Gult)                                                where t = -t > 0
+                                         e(0)
+                                    =
+
+
+
+
+                                                       ⑳       as
+                                                                            no
+                                               >
+                                               -
+
+
+
+
+to        higher frequencies blow up                   as   no to
+

@@ -1,0 +1,725 @@
+ Math 534H                                             Lecture 4                                                   ①
+                    -
+
+
+
+
+                                Spring   2026      -
+
+
+
+
+ Variable
+                  Coefficients Transport Equations (Homog )                                                    .
+                                                                                                                       .
+
+
+
+
+                                                  -A
+Suppose            a(x y)nx ,              +   b(x y)  ,   .
+
+
+
+
+                                                               zy       =       0
+                                                                                              I      -
+                                                                                                   (x J,
+                                                                                                           ~
+
+
+
+
+ As before                                                                           -
+                    (aby)) ·h Now              ,
+                                                                    =       0
+
+
+                                                                                we        cit
+                                                                                                   going
+                            =(3)
+                                       -
+                                                                to have             CHARACTERISIC
+                                                                                    -
+
+
+
+
+Questio   :       How            do      we        solve this       .
+                                                                            I                  CURVES
+-
+
+
+
+                                                                                a(x
+Example       !                                                                               y)           y
+                                                                                      ,            =
+
+
+
+                                y3x            +
+                                                       xky
+                                                                =
+                                                                    0
+
+                                                                                b(x y)    ,
+                                                                                                   =           X
+
+
+                            (y x) T,
+                                                               =
+
+
+
+ (x y)    =
+                  (y x)                                    Du                   =
+                                                                                    0
+                                                                Exj
+     ,
+                        ,
+                                                                                           ②
+                                                                        constant
+①      means        is        that        z(x ,
+                                                  y)           is
+                                                                                   along
+ curves           (characteristic curves) whose tangent
+vector at (x                       is     Y(x                  (7 x)          ①
+                              y)                      y)
+                                                           =
+                          ,                       ,
+                                                                    ,
+
+
+
+
+ Let's find the equation of these                                          curves :
+
+
+
+
+the                slope of             the tangent live to the curves
+
+                                                           E
+    at
+                               given by
+         (x   ,
+                  y)     is                           :
+
+
+
+So if                                                      equation of the curve
+              yes             represents       the
+
+than
+          =*                                   =
+                                                                    yy       =     X
+
+
+
+
+         =                                                 ( yz))
+                                                                             =     x
+
+
+                                                                                   X + cust
+          Integrating                in    X   =y =
+    ③
+
+
+
+
+n
+-
+
+
+
+
+-
+                                                                                                     &
+ Just                 before then                                  f(yn )
+                                                                                         *
+                 as                            z(x   .
+                                                         y)    =                 -
+
+                                                                                     X
+
+
+
+
+     I any function of
+ where                                              one       variable
+                                                                       I .
+
+
+
+
+Check                                                general solution of
+                                                              y(x       xzy
+                                                                    +                    =   0
+
+
+
+
+&
+    x
+         =
+                 f'(y=xz) (2x) .
+
+
+
+
+                                               So
+ my      =
+                 f'(y2 ) (2)
+                           *
+                           x       ·
+                                       .
+                                                         y 4x
+                                                          .
+
+
+
+
+                                                               f(yx
+                                                                =
+                                                                  +2xy)
+                                                #            #
+                                                                        ⑧
+                                                     x
+                                                          my   7=
+
+                                                                 ((2xy)
+Soidered
+                           -
+                                                                =       0
+
+                               yux + xhy        =
+                                                    0
+
+
+
+Now         that we impose that 2(0 y)   2
+                                           y2                                                -
+
+
+
+
+    suppose
+                                                                                     =
+                                                                         ,
+
+                                              w
+          yz
+                                                                                                 -
+             -
+
+
+
+
+                           f(yz)
+                       -
+
+
+
+
+The     2       2(0 y)             =
+                                    f(w)   ,
+                                            e       =               =>
+                                                                                             =
+
+
+
+                 -
+                                                     -                       ·
+
+
+
+
+                                                                                 WER
+                                                                                    ⑤
+                                       ·
+
+
+                                              (y2x)
+ duce         h(x                                                      the solution
+                    ,
+                        j)    =       e                       is
+
+
+
+ to
+
+
+        E
+              yux            xky
+                        +                 =   0
+
+
+
+
+              x(0 , y)            =    e
+                                          -
+
+
+
+                                              y
+
+Back to the     general           case            a(x. y)mx   +    b(x y )
+                                                                        ,
+                                                                                =   0
+
+                                                                            y
+We
+      found   that       as
+                              hig      as         we   can   solve
+
+
+
+              &                                              give se
+                                                  -      will
+
+                                                               of the
+                                                       equatio
+                                                       Characterist curves
+
+ and thus allow                           to find2 (x
+                                                                       y
+                                  us                               ,
+                                                                                         &
+
+
+                                  S
+  Example           2     :
+                                      24x      +
+                                                       8xy -zy        =   0
+
+                          *
+T (2            8xy2)                      u(0         y)        3y
+                              -
+
+    =
+            ,
+                                                            =
+                                                   ,
+
+
+
+
+    Find                                                        To    find the
+                  2(x     ,
+                              j)      solving               .
+
+
+
+
+                                                                  characteristic
+  general          solution           we   red to
+                                                         find    the
+
+    curves .            We need to solve
+ (y y(x))
+                              &== 4xy
+        =
+
+
+
+
+                          =
+  *
+                                                   4xx                 Characteristic
+y   +0                                                                            curves
+
+
+Domain of                                                                 2x+1          cust
+                                                   2x + cust
+                    -
+                                                                                   =
+                                           =
+
+Validity                                                                      J
+                                                                                       ⑰
+        Hace           2   (x   ,
+                                    y)    =
+
+                                                f(2x 7)          +
+                                                                          ;      y7    0
+
+
+
+where
+        f        is
+                       any function of                one      variable       solves
+
+
+         24x   +
+                      8xy my             = 0    .
+
+
+
+
+  But      now        we   want the            in   that also
+                                                                     satisfies 210 y) by
+                                                                                   ,
+                                                                                       =
+
+
+
+
+          3y          =     u(0 , y)           =
+
+                                                     f((z)           +
+                                                                         f(x) =
+                                                                          WER
+Hence the solution                         =        2(x   .
+                                                              ]) that satisfies
+(both                                and the initial
+                                                                     anditm)      is
+           the
+                      equation
+               h(x ,
+                           ])       =                 +
+                                                                          y+ 0
+                                                      J
+                                                                                       ⑧
+ Example            :
+                        Suppose        now       we   are
+                                                            given 2 + 34y-u        =   0
+
+
+
+
+We'll solve this two ways                         :   directly and s
+        the        coordinate method
+using
+Bolly    :
+
+
+                   ny     +
+                                   34y
+                                             =    u           2 =0       is   a   solutio
+
+
+But how about              a       notrinal solutio ?                 Suppose
+                                                                    Collect as
+7     some    (Xo   .   Jo)/2(x0             ·   Yo) # 0       ·
+
+
+
+
+                                                                    demain    of
+Now in the domain of
+                                       validity                     validity all
+                        can be      rewritten as                   (o Yo) /4/o Yo) to
+the   equation                                                       ,             ,
+
+
+
+
+                                                              constant forc insterhe
+             + By                        =       1.                               -
+
+
+
+ Now         let        X(X    ,
+                                   )     =
+                                             Inlay -                 V + 3Vy       =
+                                                                                       1
+                                                                                           &
+Now   we're         reduce     inhomogeneous
+                                      to
+                                           solving       an
+
+
+        ration with constant
+transport
+      S
+          eg                 coefficients and            ,
+
+
+
+
+constant                           term
+              forcing                              -
+
+
+
+
+                                                             -
+
+
+
+
+      let's        ansider this problem                          more
+                                                                        generally :
+                                           d            danst
+          a   Xx   +
+                           byy        =
+                                               ,
+                                                                        .
+
+                                                                             a, bid +0
+
+
+
+Basic Principle                :   General solution to theIntomensous
+                               be obtain as the                             of the general
+ equation          can
+                       ↑
+                                                             sum
+
+
+
+              Homogeneous equation plus
+ solution to the           -
+                                                                              a
+                                                                                  particular
+ solution ofthe inhomogeneous                          equation
+   general sol. to Homogeneous + a particular solution
+               EQUATION
+                                                       of inhomogeneous EQ            .
+                                                                              ⑳
+ Now    we
+              already       know that the
+                                                   general   solution to
+
+the    homogenous equation                     a + bly       =   o    has
+
+the      form Y(X ]) f(bx- ay) for ding differentiable
+                       ,
+                                     =
+
+
+
+
+function f of variable On the other hand, note that
+              one            .
+
+
+
+
+                                                   then              is
+ if                   sp(x y) =
+            choose
+       we             V          ,
+                                               X
+                                                           Up             a
+
+
+
+
+ special         solution
+                             of a x + by               =     &   :
+
+
+
+
+Hence any                                                        ()
+        V(x y) =
+             ,              f(bx cy)       -
+                                                   +
+                                                       x              will
+
+
+satisfy           a
+                      xx +           byy   =   d
+                                                                                     ⑪
+Remark       :   Note that the function
+                                                 Usp   =
+
+                                                           -f            is   also
+
+a   special solution of          a xx +      buy      =   d    .
+                                                                    So        we
+
+
+could       have also written the
+                                general solutions of GA
+                        dasV(x
+ avx +      byy     =
+
+                               y) f(bx ay) +
+                                    ,
+                                             =
+
+
+                                                  by       -
+
+
+
+
+for any differentiable function - of                   one         variable    .
+
+
+
+
+ Eithergeneral expression               is   valid since at this
+
+     f
+ point               is
+                generic ;
+                                        so
+                                                 given auxiliary
+andihm determine differentf                      in   each case
+                                                               -
+                                                                               andH
+One just needs to choose one
+Class homework              Check that both                       () and(++)
+                        :
+                                                      expressions
+for vex y) satisfy axx + by
+        ,
+                                         =       .
+                                                 d
+                                                                              ⑫
+Back to our                   particular   case        (at the botten of pased)
+                                                                                      E
+
+
+
+
+                                                                         1b       3d              1)
+                Yx                         1                (a   =                            =
+
+
+
+
+                               3Yy
+                                                                              =
+
+                          +           =            .
+
+
+
+
+We          know that the                                   solution to this
+     now
+                                         general
+inhomogeneous equatio                      can         be written        as
+
+
+
+           v(x      ,
+                        y)    =
+                                  f(3x      -
+
+
+
+
+                                                   2)       +    x(f 1)                   =
+
+
+
+
+Hence the               solution          to
+                                                                 buy-a
+                                     2
+                                                       My   +                     =       0
+
+
+
+(top of pase8) is
+
+                                                                         2
+                                                                              recall
+                                                                                          h(u)
+     2(x    ,
+                y)        =
+                                  e(f(3x    -
+
+
+
+
+                                               y) + x)                        V=
+
+                                                                         = h = 2
+                                                                                              Y
+
+
+                                                             X
+=     2(x
+                    y)
+                              =      h(3x 7) e -
+                                                                  We used that
+                                                                     -
+
+
+
+
+                                                                  e(f(3x y) x)
+                ,
+                                                        .
+
+
+
+
+                                                                          -
+
+                                                                                  +
+                                                                                          =
+
+
+
+
+        function h of 1 variable
+for any                                                         efx-be h(x-y) eX
+                                                                              =               .
+                                                                                 *         ⑬
+Check.            We check           x(x ,
+                                                 y)   =
+                                                          h (3x y) e   -
+
+                                                                             .
+
+
+
+                                                                                     for
+
+any (differentiable) function  1 variable
+                              of                                                 is   indeed
+
+    solution        of
+a
+                         2, + 34y - a                     =   0    :
+
+
+
+
+    ux       =    h'(3x y) 3
+                         -
+
+                             .       .
+                                         e
+                                             *
+                                                 +   h(3x y) eX
+                                                              -
+
+                                                                       .
+                                                                             Schaimmee
+                 h'(3x y) ( 1) eX
+    my
+                     -
+
+
+
+
+         =
+                                 .
+
+
+                         .
+
+
+
+
+:        +
+             3jn
+                         =                                                   2
+                                                                             -
+                                                                                 ~
+
+
+
+
+                         =       O                                         donned
+                                                                  as                  . #
+
