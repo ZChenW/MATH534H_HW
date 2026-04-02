@@ -1,109 +1,98 @@
-# Lecture 13
+# Lecture 13：修正能量与热方程最大值原理
 
-## Review (14:36 ~ 14:45)
+## 1. 继续上讲：带恢复力的波动方程
 
-## Continue from (++) page 8 of lecture 12
-
-继续前言
+考虑
 
 $$
-0 = \int_{-\infty}^{\infty} (u_{tt}u_t - c^2 u_{xx}u_t + ku\,u_t)\,dx
+u_{tt}-c^2u_{xx}+k u=0,
 $$
 
-$$
-\int_{-\infty}^{\infty} u_{xx}u_t\,dx
-= \left[ u_x u_t \right]_{-\infty}^{\infty}- \int_{-\infty}^{\infty} u_{xt}u_x\,dx
-= 0 - \frac12 \frac{d}{dt}\int_{-\infty}^{\infty} u_x^2\,dx
-$$
+其中 $k>0$。
+
+## 2. 修正后的能量
+
+对该方程，合适的能量应定义为
 
 $$
-0 = \frac{1}{2}\frac{d}{dt}\int_{-\infty}^{\infty}
-\left( u_t^2 + c^2 u_x^2 + k u^2 \right)\,dx
+E[u](t)
+=
+\frac{1}{2}\int_{\mathbb{R}}
+\bigl(
+u_t^2 + c^2u_x^2 + k u^2
+\bigr)\,dx.
 $$
 
-Constant in time:
+通过与上一讲类似的乘法、积分与分部积分计算，可以得到
 
-$$\overline{E}[u](t) = \overline{E}[u](0)$$
+$$
+\frac{d}{dt}E[u](t)=0.
+$$
 
-$$\frac{d}{dt} \overline{E}[u][t] == 0$$
+因此该修正能量仍然守恒。
 
-The energy is conserved in time.
+## 3. 转入热方程
 
-## Heat Equation (15:07 ~ 15:50)
+现在考虑一维热方程
 
-为什么u(x, -t) is also a solution of wave equation, but heat equation not?
+$$
+u_t-k u_{xx}=0, \qquad t>0.
+$$
 
-Diffusion on Heating equation in 1D x \in R
+与波动方程不同，热方程**不是时间可逆的**。  
+它体现扩散和平滑效应。
 
-Heat equation is time-reversible
+## 4. 最大值原理的背景
 
-$$u_t - R u_{xx}, k > 0$$
+考虑闭矩形区域
 
-- Properities of solution:
-  - Remark: IVP
-    - $u_t - k u_{xx} = 0$
-    - $u(x, 0) = \phi$ 告诉你“最开始温度长什么样”
-  - Maximum Principle 热方程的解在内部不会自己产生新的最大值。最大值只能出现在初始时刻或者空间边界上。
-    - $x \in [0, L]$
-    - $t \in [0, T]$
-    - $R = [0, L] * [0, T]$ Former a Close Rectangle
+$$
+R=[0,L]\times[0,T].
+$$
 
-|
-|
-x---------------------k
-| | | | | | | | | | | |
-| | | | | | | | | | | |
-| | | | | | | | | | | |
-| | | | | | | | | | | |
-| | | | | | | | | | | |
-| | | | | | | | | | | |
-| | | | | | | | | | | |
-0---------------------t-------
+研究在该区域内满足热方程的函数 $u(x,t)$。
 
-Remark: Uniqueness and stablility of solution to IVP for H, could be approached
-in two ways:
+## 5. 最大值原理
 
-- Using "Eneray method"
-- Maximum Principle
-  There is not max prin for the wave equation
-  - ## Theorem (weak Maximum Principle):
+### 定理：最大值原理
 
-### Weak Maximum Principle 的标准形式
+若 $u$ 在闭矩形 $R$ 上满足热方程，则 $u$ 在 $R$ 上的最大值只能出现在：
 
-设 \(u(x,t)\) 在矩形区域
+- 初始边界 $t=0$；
+- 侧边界 $x=0$ 或 $x=L$。
 
-\[
-R=[0,L]\times[0,T]
-\]
+换句话说，内部点不能取得严格的正最大值。
 
-上满足热方程
+最小值原理可由对 $-u$ 应用最大值原理得到。
 
-\[
-u*t-k u*{xx}=0,\qquad k>0
-\]
+## 6. 证明思路
 
-并且 \(u\) 足够光滑、在闭区域上连续。
+若最大值在内部点 $(x_0,t_0)$ 取得，则必须有
 
-那么：
+$$
+u_x(x_0,t_0)=0, \qquad u_t(x_0,t_0)\ge 0, \qquad u_{xx}(x_0,t_0)\le 0.
+$$
 
-\[
-\max\_{\overline R} u
-\]
+代回热方程
 
-一定出现在这个区域的 **抛物边界** 上，而不是内部。
+$$
+u_t-k u_{xx}=0
+$$
 
-这里的抛物边界通常是
+会与内部严格最大值的性质冲突，因此最大值不能出现在内部。
 
-\[
-([0,L]\times\{0\})\cup (\{0\}\times[0,T])\cup(\{L\}\times[0,T])
-\]
+## 7. 最大值原理的意义
 
-也就是：
+它可以用来证明：
 
-- 底边 \(t=0\)：初始时刻
-- 左边 \(x=0\)
-- 右边 \(x=L\)
+- 解的唯一性；
+- 对初始数据和边界数据的稳定性；
+- 热方程解不会凭空在内部长出新的极大值。
 
-### Weak Min Principle 的标准形式
+## 8. 波动方程与热方程的对比
 
-### Proof Maximum Principle
+课程特别强调：
+
+- 波动方程有有限传播速度与能量守恒；
+- 热方程有扩散、平滑和最大值原理；
+- 波动方程一般没有热方程那样的最大值原理。

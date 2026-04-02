@@ -1,0 +1,329 @@
+     Math                                                 Lecture              13
+               534H          -
+
+
+
+
+                                  Spring     2016     -
+
+
+
+
+Continuing          trun         (Tt) page 8 of           Lecture          12 .
+
+                                             both    sides                 t
+we    have          untegrating                               w    .   r
+                                                                       .
+                                                                                X
+
+
+that                ⑳
+
+
+
+      0    =
+
+                f(4 ↳
+                        +
+                                   4 mu4)dx
+                                        ~
+                                                    x4    +
+
+                                                              -
+
+                ⑳
+
+                    (4)2                                   (h)
+            -
+
+
+
+
+                                                      o
+Now we ansider second term                       =
+
+                                                              a
+
+  -
+      jouxdx
+      as
+                        as
+                                   =
+                                  IBT
+                                 in bottom   of Pg3
+                                                      Lecture 12
+                                        c2
+                                           =
+Then
+  ·
+       =          -
+                           1 + c (n (2
+                                    +
+                                             +       muzdy
+
+
+
+
+                       E[uJ(t)
+Then   we   get
+             E[uJ(t)       =   E[u](o)
+                  ↳ constant   in   time         .
+
+
+
+
+This energy           is   conserved         in      time .
+Diffusion                or
+                               Heat   Equation       in       1D   xet    ·
+
+
+
+
+      4
+                 -
+
+
+
+
+                         xxx          =   0        R>     O        (H)
+
+This        is       NOT         time reversible.
+                     F
+
+
+ Here       is       a        bit harder to obtain        a
+                                                              representation
+C
+and     heace             existence) of the solution          .
+
+
+
+
+Before       we           try     to do so     .
+                                                   Let's try to
+understand                                               of solutions
+                                  some
+                                              properties
+I should there exist)
+#I      :    Recall that IVP for #)                                is
+ E
+                   kYx                         XeR
+      4
+              -
+                                =
+                                     0           .
+
+
+
+
+           u(X 0)  ,
+                               =
+                                    f(x)
+
+MAXIMUM                Principle              We consider
+
+
+ 4    -
+
+
+
+              R(xx         0
+                           =
+
+
+
+
+                                     fr       x      [0   ,   7]
+and       let          t        [0 T],
+
+
+
+
+to    we   consider            (H)       on
+                                                tangle
+                                              the
+R         =
+                  [0 L] x[o T]
+                       ,                 ,
+
+                                                                   W
+                                              ⑩
+                                                     t = 0
+
+                                                gl                 14
+Remark             :
+                       Uniqueness       and   stability of
+solution       to      IVPforCH)        can   be
+                                                   approached
+                                    ,
+
+               :               method"
+                 using "energy
+     two
+in
+           way                         ;
+
+② Maximum Principle .
+There    isNo          maximum
+                                   principle for the     wave
+
+
+
+equation   -
+
+
+
+
+Theorem (wear  :          Maximum
+                                        Principle)
+If
+ in(xit) solves                (H) in the closed rectangle
+
+R    =
+         [0 L] x [0
+           ,              ,    . Then the maximum
+                              T]
+
+           X             t
+                                                          ↑
+
+
+
+
+                                                 Rh is achieved                      either
+ value
+                  of      lxit)              on
+
+
+
+                                                                        fateral sides
+  initially                    (t   =
+                                        o)    or     on           the
+
+                                             In
+(X=   0       or          X    =
+                                   4)    .
+                                                          other         words
+
+
+              max(2(x t)]
+                  &
+                                    .
+                                                 =    max(4(x 5)]               .
+
+
+
+
+          (x t) -R
+              ,                                      (x +)    ,
+
+
+
+
+ W        =
+                  ((x t)/t ,
+                                             =    oax              =
+                                                                        oarx =      2)
+Remark                :   Once      we
+                                                    pple
+                                         prove the ex                               we'll
+-
+
+
+
+
+                    th
+          haveproven nimum
+also
+                          principlet
+          (x +) e
+              ,                                    (x t) + (
+                                                      ,
+ because         if       u(xit)    solves    (H) then-nexit)
+also    solves   #)           and
+
+
+                 min
+                           (u(x +)y ,
+                                              =   =
+
+
+
+                                                        max(   -
+
+                                                                    u(x , t)
+
+
+
+Notation          Let's           call the
+                                              region          #D   =   17
+-
+
+
+
+
+&
+of         :          A    first        natural (but ultimately
+
+unsuccesful) approach                    &
+                                          ·
+                                              2    is   aontinuous          un
+
+
+
+
+# it)      and        R      is    closed     so        the   max
+                                                                       quit)}
+is indeed         achieved onR
+
+Suppose the                maximum            ofxit)           is      achieved
+  at    (x       5)        inside R                then   the
+                                                                gradient
+             ,
+                                               ,
+
+
+
+ ofie       must vanished                 at that     point     :   that is
+
+            xy(X      ,
+                          to   =      0   =
+                                               ny(Xo to)
+                                                      ,
+
+
+
+
+If     in    addition                we   had that
+
+                 ict
+  ↳ Exx(Xo to) < O   inequality  ,
+
+
+
+
+this   will give
+                           you       a    contradiction       directly
+by plugging           (xo , to) in         #         contradicting that
+                                                                   It
+                                                          2
+                                                           solves
+
+        koto     11
+
+                 O
+                                           >   0
+                                                                      0b
+                                                                    not
+What this tell                  that the
+                      us   is              maximum
+                                                      point
+ (    ,   to)   cannot     be     an   internal   point .
+
+
+
+
+The   problem    is   that "second derivative test"
+
+just gives you thatExo to) - 0
+

@@ -1,0 +1,369 @@
+         Math 534H                                 Lectura                         ①
+                          -
+
+
+
+                               Spring   2026   -
+                                                                  12
+
+
+
+Wave equation                  conserves
+                                                   energy .
+
+& We               are                  to   assume          that the IC
+                         going
+ ↓           and         vanish outside                      interval      ER R]
+                    ↑                                   an
+                                                                               ,
+
+
+
+
+This
+              implies          2(X t)
+                                    ,
+                                             (pheice    2x (x t) and
+                                                              ,
+                                                                           M   (t)
+Vanish for               1x1    >   R   +    Ct
+
+
+ 7       :
+
+             density of         the
+                                        string               230
+T        :
+              magnitude of the tension xector (anstant) To
+(7   ,
+         T    indep of        xit)       and            c     =
+                                                                   I
+                                                                       S
+                     C=
+                              speed of   wave       .
+                                                                              ②
+Eg for the
+    .
+
+
+
+                  string   is
+                                    gitz     =
+                                                   Thxx                   xeR    .
+
+
+
+
+        htt
+              -
+
+
+
+
+                  =(xx
+                           =    0   =
+                                        4t
+                                               -
+
+
+
+
+                                                   c24xx
+
+    netic
+              Energy       KE
+                                    =
+                                        99                            x
+
+
+
+
+PE
+         =        Tax                      n
+
+
+                                             ux
+                                               =
+                                                   =
+
+                                                       4,(x t)
+                                                       =
+                                                              ,
+
+
+
+
+                                                           ux(x t),
+
+
+
+
+E             KE +   PE
+                            energy funcbinal for
+        =                                                                 u
+
+
+
+
+ -
+    = [2](t)         =
+
+                         1 t)x +                                          +)dx
+                                                                            ③
+Conservation of             Energy means
+         # [n](t)       =   E[n] (o)           >
+                                               -       constant        .
+                                                                           ED
+                                       -
+
+
+
+
+  *          =   o
+                        =
+Let's            this           WLOG
+                                               y       1       T       c
+        prove
+                                                   =       =
+
+                                                                   ;
+                        .
+
+
+                                           ,
+
+
+
+
+&==
+But     Y+
+             -
+
+
+                 4xx    =   0
+                                 N
+                                  +t
+                                           =   2xx
+* Stx
+                                IBP
+                                                                       x4xdx
+                                      &
+-
+    = S -nex4xdx
+                o
+            -
+
+
+
+
+                    = (4)
+
+    E
+        =
+
+
+            -                     D
+
+
+
+
+But                           ⑫
+
+
+
+Tim                   o       b
+                       as   desired
+        ①       ②
+                                                                          ②
+Another Examples
+
+①   Damped string equation This         .
+                                                      crises     from
+
+string/wave       problem      when
+                                            significant-say-
+air   resistance     is   at play            V       resistance factor
+                                   .
+                                                 =
+
+
+
+
+                                                                r >   o
+
+
+
+
+              24xx
+                                                                -
+
+
+
+
+    "t+               4
+                                        0
+
+                     +
+          -                         =
+
+
+
+
+For this
+              equation
+                           E   =    KE        +      PE    as    before   .
+
+
+
+
+ E[n](t)
+               =                x
+                                            ++
+                                                       -
+                                                           e
+                                                                      x
+
+
+
+Repeat        some   as   before but now                   with
+                                                     ③
+ "Et   =
+               cUxX     -
+
+
+
+
+                            Nut   Extra   !
+
+So   now
+               you'll   get
+
+
+ =x
+&                                         survives
+                                              -
+                                              -
+                                                     !
+
+ &                                    -   2
+
+
+
+                                -
+E[u]()     -   Equ] (0)       E negative !
+     decreasing
+                                                                       ⑦
+② Suppose          now     in
+                                your     string problem
+there   is    a   transverse         elastic     force We
+have         an   extra term    proportional to the
+displacement         2      (lile       coiled string (
+                                        in   a
+
+
+
+
+Then     the      equatim       is
+                                       E-c uxx +               ku   =
+
+
+                                                 k >0
+
+
+                                                           the
+ & o ampute
+                                       where     E
+ d                                                   is
+
+
+
+
+same    as     before you and up
+                       ,
+                                                 with     an   extra
+
+term
+ which
+        that looks like
+             has sign !
+                                      -ekfa        u dy
+                                                                           !How          o
+So        wa
+                  need to
+                                  modify        the
+                                                      energy
+
+do       we    find 2
+
+                                                      ku
+     O        =
+                    htt
+                              -
+
+
+
+
+                                      c -4xx    +
+
+
+
+     0        =
+                   (4   + +
+                                  -
+                                      -
+                                          uxx    +
+                                                      (4)4t
+                          -                                            mu4
+                                      4
+     0         =        4
+                        +             =
+                                                      x4       +
+
+
+                        ↳                                               -
+
+
+
+
+                        (4)2                                       (h)
+Next          integrate both sides                     w   .   r   .
+                                                                       t   X   and
+
+do   IBP           in   the           second term          on          the r h   .   S
+
+     as        before
+                                                                                ⑨
+T
+or simplicity here assume
+                          (2         =   1k =      1    T=
+                                                                1
+                                                                    =
+                                                                        1
+                   =
+
+
+
+
+ Then     we'll   get
+
+
+   =42 yd]                                     +
+
+
+
+
+                                                   1)
+                                                       uj   +
+
+
+
+
+                                          F[u](t)
+This                                           new
+                                                            energy
+                                                                            !
+       E(u]         isanserved                in time .
+
+
+  We'll    do     this   last part       in   detail        next time       .
+
