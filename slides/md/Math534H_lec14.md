@@ -2,144 +2,144 @@
 
 ## Theorem
 
-Let \(u(x,t)\) be continuous on the closed rectangle
+Let \(u(x,t)\) be continuous on the closed rectangle.
 
 \[
-R=[0,L]\times[0,T]
+R = [0,L] \times [0,T].
 \]
 
-and suppose \(u\) satisfies the heat equation in the interior:
+Assume that \(u\) satisfies the heat equation in the interior of \(R\).
 
 \[
-u_t-k u_{xx}=0, \qquad k>0.
+u_t - k u_{xx} = 0, \qquad k > 0.
 \]
 
-Define the parabolic boundary
+Define the parabolic boundary of \(R\) by
 
 \[
-\Gamma=\{(x,t)\in R : t=0 \text{ or } x=0 \text{ or } x=L\}.
+\Gamma = \{(x,t) \in R : t = 0 \text{ or } x = 0 \text{ or } x = L\}.
 \]
 
-Then
+Then the maximum of \(u\) on \(R\) is equal to the maximum of \(u\) on \(\Gamma\).
 
 \[
 \max_{(x,t)\in R} u(x,t) = \max_{(x,t)\in \Gamma} u(x,t).
 \]
 
-That is, the maximum of \(u\) on \(R\) is attained on \(\Gamma\).
+## 正文说明
 
----
+We prove the result by contradiction.
 
-## Proof
-
-We prove this by contradiction.
-
-Assume the conclusion is false. Then the maximum of \(u\) on \(R\) is attained at some interior point \((x_0,t_0)\), where
+Assume that the conclusion is false. Then the maximum of \(u\) on \(R\) is attained at an interior point.
 
 \[
-0<x_0<L, \qquad 0<t_0\le T.
+(x_0,t_0), \qquad 0 < x_0 < L, \qquad 0 < t_0 \le T.
 \]
 
-Now define the auxiliary function
+Introduce the auxiliary function
 
 \[
-v(x,t)=u(x,t)+\varepsilon x^2,
-\qquad \varepsilon>0.
+v(x,t) = u(x,t) + \varepsilon x^2, \qquad \varepsilon > 0.
 \]
 
-Since \(v\) is continuous on the compact set \(R\), it attains a maximum somewhere on \(R\). Suppose this maximum occurs at an interior point \((x_1,t_1)\).
-
-At an interior maximum point of \(v\), we have
+Since \(v\) is continuous on the compact set \(R\), it attains a maximum on \(R\). Suppose this maximum occurs at an interior point.
 
 \[
-v_t(x_1,t_1)=0
+(x_1,t_1).
 \]
 
-and
+At an interior maximum point of \(v\), the time derivative vanishes and the second spatial derivative is nonpositive.
 
 \[
-v_{xx}(x_1,t_1)\le 0.
+v_t(x_1,t_1) = 0.
 \]
-
-Because
 
 \[
-v_t=u_t, \qquad v_{xx}=u_{xx}+2\varepsilon,
+v_{xx}(x_1,t_1) \le 0.
 \]
 
-it follows that
+From the definition of \(v\), we have
 
 \[
-u_t(x_1,t_1)=0
+v_t = u_t.
 \]
-
-and
 
 \[
-u_{xx}(x_1,t_1)=v_{xx}(x_1,t_1)-2\varepsilon \le -2\varepsilon <0.
+v_{xx} = u_{xx} + 2\varepsilon.
 \]
 
-Now evaluate the heat equation at \((x_1,t_1)\):
+Hence
 
 \[
-u_t(x_1,t_1)-k u_{xx}(x_1,t_1)
-=0-k(\text{negative number})>0.
+u_t(x_1,t_1) = 0.
 \]
-
-This contradicts the fact that \(u\) satisfies
 
 \[
-u_t-k u_{xx}=0.
+u_{xx}(x_1,t_1) = v_{xx}(x_1,t_1) - 2\varepsilon \le -2\varepsilon < 0.
 \]
 
-Therefore, \(v\) cannot attain its maximum at an interior point. So the maximum of \(v\) must occur on \(\Gamma\). Hence
+Now evaluate the heat equation at \((x_1,t_1)\).
 
 \[
-\max_R (u+\varepsilon x^2)=\max_\Gamma (u+\varepsilon x^2).
+u_t(x_1,t_1) - k u_{xx}(x_1,t_1) = 0 - k(\text{negative number}) > 0.
 \]
 
-Since \(0\le x^2\le L^2\) on \(R\), we have
+But this contradicts the assumption that \(u\) satisfies
 
 \[
-u(x,t)\le u(x,t)+\varepsilon x^2\le u(x,t)+\varepsilon L^2.
+u_t - k u_{xx} = 0.
 \]
 
-Therefore,
+Therefore, \(v\) cannot attain its maximum at an interior point. So the maximum of \(v\) must occur on \(\Gamma\).
+
+\[
+\max_R \bigl(u + \varepsilon x^2\bigr) = \max_\Gamma \bigl(u + \varepsilon x^2\bigr).
+\]
+
+Because \(0 \le x^2 \le L^2\) on \(R\), we have
+
+\[
+u(x,t) \le u(x,t) + \varepsilon x^2 \le u(x,t) + \varepsilon L^2.
+\]
+
+Therefore
 
 \[
 \max_R u
 \le
-\max_R (u+\varepsilon x^2)
+\max_R \bigl(u + \varepsilon x^2\bigr)
 =
-\max_\Gamma (u+\varepsilon x^2)
+\max_\Gamma \bigl(u + \varepsilon x^2\bigr)
 \le
-\max_\Gamma u+\varepsilon L^2.
+\max_\Gamma u + \varepsilon L^2.
 \]
 
 So
 
 \[
-\max_R u \le \max_\Gamma u+\varepsilon L^2.
+\max_R u \le \max_\Gamma u + \varepsilon L^2.
 \]
 
-Since this holds for every \(\varepsilon>0\), letting \(\varepsilon\to 0\) gives
+Since this holds for every \(\varepsilon > 0\), let \(\varepsilon \to 0\). Then
 
 \[
-\max_R u\le \max_\Gamma u.
+\max_R u \le \max_\Gamma u.
 \]
 
-On the other hand, since \(\Gamma\subset R\), we clearly have
+On the other hand, since \(\Gamma \subset R\), we also have
 
 \[
-\max_\Gamma u\le \max_R u.
+\max_\Gamma u \le \max_R u.
 \]
 
-Combining the two inequalities, we obtain
+Combining the two inequalities gives
 
 \[
-\max_R u=\max_\Gamma u.
+\max_R u = \max_\Gamma u.
 \]
 
-Thus the theorem is proved.
+This proves the theorem.
 
-\(\square\)
+\[
+\square
+\]
